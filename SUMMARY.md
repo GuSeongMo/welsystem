@@ -2,7 +2,7 @@
 
 * [welsystem User Manual](README.md)
 * [1. 안전 및 주의사항](chapter1/README.md)
-  * [1.1. 取扱説明書の安全表示](chapter1/section1.1.md)
+  * [1.1. 사용설명서의 안전 표시](chapter1/section1.1.md)
   * [1.2. 一般安全警告及び注意事項](chapter1/section1.2.md)
   * [1.3. 潜在的危険](chapter1/section1.3.md)
   * [1.4. 運送及び運搬](chapter1/section1.4.md)
