@@ -3,7 +3,6 @@
 * [welsystem User Manual](README.md)
 * [1. 安全及び注意事項](chapter1/README.md)
   * [1.1. 取扱説明書の安全表示](chapter1/section1.1.md)
-  * [Copy of 1.1. 取扱説明書の安全表示](chapter1/section1.1-1.md)
   * [1.2. 一般安全警告及び注意事項](chapter1/section1.2.md)
   * [1.3. 潜在的危険](chapter1/section1.3.md)
   * [1.4. 運送及び運搬](chapter1/section1.4.md)
@@ -67,4 +66,4 @@
   * [10.4. プログラムの読み取り](chapter10/104-puroguramunomiri.md)
 * [11. ソフトウェアのアップデータ](chapter11.md)
 * [12. リモートサポートの方法](chapter12.md)
-* [test](test.md)
+* [13．終](test.md)
