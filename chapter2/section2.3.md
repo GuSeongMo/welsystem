@@ -2,7 +2,7 @@
 
 #### ■ 製品サイズ
 
-<figure><img src="../.gitbook/assets/그림16.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter2/img00.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
