@@ -1,23 +1,13 @@
-# 8.2. 溶接プログラムの作成方法
+# 8.2. 溶接プログラムの作成
 
-{% stepper %}
-{% step %}
-#### 1
-{% endstep %}
+<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
 
-{% step %}
-#### 2
-{% endstep %}
+> * 追加\
+>   溶接種類を選択し、溶接条件を選択した後、追加を押すと、溶接動作確認ウィンドウに進めます。\
+>
+> * 修正\
+>   追加し終わった動作の溶接種類や溶接条件を修正します。\
+>
+> * 削除\
+>   動作を削除します。
 
-{% step %}
-#### 3
-{% endstep %}
-
-{% step %}
-#### 4
-{% endstep %}
-
-{% step %}
-#### 5
-{% endstep %}
-{% endstepper %}

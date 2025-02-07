@@ -1,10 +1,12 @@
 # 2.3. 製品構成要約
 
-* **製品サイズ**
+#### ■ 製品サイズ
 
 <figure><img src="../.gitbook/assets/그림16.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-* **製品詳細**
+
+
+#### ■ 製品詳細
 
 <figure><img src="../.gitbook/assets/그림17.png" alt="" width="563"><figcaption></figcaption></figure>
 

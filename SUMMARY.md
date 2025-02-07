@@ -41,7 +41,7 @@
   * [7.5. サポート・購入](chapter7/section7.5.md)
 * [8. 溶接プログラムの作成](chapter8/README.md)
   * [8.1. 教示方法](chapter8/section8.1.md)
-  * [8.2. 溶接プログラムの作成方法](chapter8/section8.2.md)
+  * [8.2. 溶接プログラムの作成](chapter8/section8.2.md)
   * [8.3. 仮接溶接](chapter8/section8.3.md)
   * [8.4. 直線溶接](chapter8/section8.4.md)
   * [8.5. 曲線溶接](chapter8/section8.5.md)
