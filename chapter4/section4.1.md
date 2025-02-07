@@ -1,34 +1,35 @@
 # 4.1. ブート
 
+{% stepper %}
+{% step %}
+スイッチボックスのキースイッチをオンにします。
 
+<figure><img src="../.gitbook/assets/그림44.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-1.  スイッチボックスのキースイッチをオンにします。\
+{% step %}
+溶接機の電源を入れます。
 
+<figure><img src="../.gitbook/assets/그림45.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림44.jpg" alt=""><figcaption></figcaption></figure></div>
+{% step %}
+ガス筒のバルブを開きます。
 
+<figure><img src="../.gitbook/assets/그림41.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-2.  溶接機の電源を入れます。\
+{% step %}
+welsystem プログラムを実行します。
 
+<figure><img src="../.gitbook/assets/그림40.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림45.jpg" alt=""><figcaption></figcaption></figure></div>
+{% step %}
+起動が完了します。
 
+(ロボットネットワーク接続+自動起動+リアルモード)
 
-3.  welsystem プログラムを実行します。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림40.png" alt=""><figcaption></figcaption></figure></div>
-
-
-4.  ガス筒のバルブを開きます。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림41.jpg" alt=""><figcaption></figcaption></figure></div>
-
-
-5.  起動が完了します。
-
-    (ロボットネットワーク接続+自動起動+リアルモード)\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림42 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/그림42 (1).jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}

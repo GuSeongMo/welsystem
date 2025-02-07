@@ -1,33 +1,33 @@
 # 3.4. ガス接続
 
+{% stepper %}
+{% step %}
+準備したガスをフレームの背面に置きます。
 
+<figure><img src="../.gitbook/assets/그림31.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-1.  準備したガスをフレームの背面に置きます。\
+{% step %}
+固定バーでガスを固定させます。
 
+<figure><img src="../.gitbook/assets/그림32.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림31.jpg" alt=""><figcaption></figcaption></figure></div>
+{% step %}
+ガス調整器をガス容器に取り付けます。
 
+<figure><img src="../.gitbook/assets/그림33.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-2.  固定バーでガスを固定させます。\
+{% step %}
+ホースをガスコントローラに接続します。
 
+<figure><img src="../.gitbook/assets/그림34.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림32.jpg" alt=""><figcaption></figcaption></figure></div>
+{% step %}
+ガスコントローラのプラグをコンセントに差し込みます。
 
-
-3.  ガス調整器をガス容器に取り付けます。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림33.jpg" alt=""><figcaption></figcaption></figure></div>
-
-
-4.  ホースをガスコントローラに接続します。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림34.jpg" alt=""><figcaption></figcaption></figure></div>
-
-
-5.  ガスコントローラのプラグをコンセントに差し込みます。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림37.jpg" alt=""><figcaption></figcaption></figure></div>
-
+<figure><img src="../.gitbook/assets/그림37.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
