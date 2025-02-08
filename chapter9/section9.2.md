@@ -2,7 +2,7 @@
 
 ■ 素材とプラズマトーチを垂直にさせます。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter9/section9.2.1.jpg" alt=""><figcaption></figcaption></figure>
 
 専用のツールを利用して素材とプラズマトーチ垂直にさせます。
 
@@ -14,7 +14,7 @@
 
 ■ 素材とノズルの先をくっつくように教示します。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter9/section9.2.2.jpg" alt=""><figcaption></figcaption></figure>
 
 教示の際,ノズルを資材に触れるようにしても、切断条件のStartとWorkの値が実際の切断時に素材とトーチの間の距離を与えます。
 
