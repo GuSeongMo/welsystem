@@ -10,7 +10,7 @@
 
 #### ■ 溶接機
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>OTC DAIHEN</td><td><a href="../images/jp/chapter2/section2.2.4.jpg">section2.2.4.jpg</a></td></tr><tr><td>HYOSUNG</td><td><a href="../images/jp/chapter2/section2.2.5.jpg">section2.2.5.jpg</a></td></tr><tr><td>ESAB</td><td><a href="../images/jp/chapter2/section2.2.6.jpg">section2.2.6.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>OTC DAIHEN</td><td><a href="../images/jp/chapter2/section2.2.4.jpg">section2.2.4.jpg</a></td><td><a href="https://smartstore.naver.com/_jct/products/10669322986">https://smartstore.naver.com/_jct/products/10669322986</a></td></tr><tr><td>HYOSUNG</td><td><a href="../images/jp/chapter2/section2.2.5.jpg">section2.2.5.jpg</a></td><td><a href="https://smartstore.naver.com/_jct/products/10669446708">https://smartstore.naver.com/_jct/products/10669446708</a></td></tr><tr><td>ESAB</td><td><a href="../images/jp/chapter2/section2.2.6.jpg">section2.2.6.jpg</a></td><td><a href="https://smartstore.naver.com/_jct/products/11150298166">https://smartstore.naver.com/_jct/products/11150298166</a></td></tr></tbody></table>
 
 #### ■ ティーチングペンダント
 
