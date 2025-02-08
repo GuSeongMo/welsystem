@@ -16,7 +16,7 @@
 >
 > 4.  手動座標系 ロボットの操作方法を表示するアイコンです。
 >
->     <table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../img/chapter7/section7.4.5.jpg" alt=""></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="../img/chapter7/section7.4.5.jpg" alt="></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="></td><td>グローバル座標系</td><td>ロボットの中心を基準にして水平・垂直に動く座標系です。</td></tr><tr><td><img src="../img/chapter7/section7.4.5.jpg" alt=""></td><td>ツール座標系</td><td>ロボットTCPを基準に水平、垂直垂直に動く座標系です。</td></tr></tbody></table>
+>     <table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../icon/joint.ax.png" alt=""></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="../icon/global.ax.png" alt="></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="></td><td>グローバル座標系</td><td>ロボットの中心を基準にして水平・垂直に動く座標系です。</td></tr><tr><td><img src="../icon/tool.ax.png" alt=""></td><td>ツール座標系</td><td>ロボットTCPを基準に水平、垂直垂直に動く座標系です。</td></tr></tbody></table>
 >
 >     ペンダントの「F1ボタン」または画面のボタンをタッチすると変更できます。\
 >
