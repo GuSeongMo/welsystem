@@ -2,7 +2,7 @@
 
 #### ■ プログラム選択画面
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter7/section7.3.1.jpg" alt=""><figcaption></figcaption></figure>
 
 > 1.  読み取りモード
 >
@@ -26,7 +26,7 @@
 
 #### ■ 多重プログラム実行
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter7/section7.3.2.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   多重プログラム表示ウィンドウ
 >

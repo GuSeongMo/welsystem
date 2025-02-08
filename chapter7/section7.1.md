@@ -1,6 +1,6 @@
 # 7.1. メイン画面
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter7/section7.1.1.jpg" alt=""><figcaption></figcaption></figure>
 
 > 1. ロゴマーク\
 >    タッチするとデスクトップに移動できます。\
@@ -21,7 +21,7 @@
 >     ロボットの操作方法を表示するアイコンです。\
 >
 >
->     <table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="broken-reference" alt="" data-size="original"></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="broken-reference" alt=""></td><td>グローバル座標系</td><td>ロボットの中心を基準にして水平・垂直に動く座標系です。</td></tr><tr><td></td><td>ツール座標系</td><td>ロボットTCPを基準に水平、垂直垂直に動く座標系です。</td></tr></tbody></table>
+>     <table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../img/chapter7/section7.1.2.jpg" alt="" data-size="original"></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="../img/chapter7/section7.1.1.jpg" alt=""></td><td>グローバル座標系</td><td>ロボットの中心を基準にして水平・垂直に動く座標系です。</td></tr><tr><td></td><td>ツール座標系</td><td>ロボットTCPを基準に水平、垂直垂直に動く座標系です。</td></tr></tbody></table>
 >
 >     ペンダントの「F1ボタン」または画面のボタンをタッチすると変更できます。\
 >
