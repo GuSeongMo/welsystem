@@ -6,25 +6,25 @@
 {% step %}
 ファイル名欄を選択します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 名前を入力して、キーパッドを閉じます。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 保存押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 経路を指定し保存して完了します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -36,24 +36,24 @@
 {% step %}
 左上の保存モードを押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 保存する番号を選択してください。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 確認メッセージからYESを選択します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 保存が完了します。「戻る」ボタンで前の画面に戻ります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.3.8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

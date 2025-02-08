@@ -2,35 +2,31 @@
 
 #### ■ 位置移動
 
-教示されている位置にロボットを移動させる機能です。\
-教示位置の確認、中途実行のための移動のとき使用します。\
+教示されている位置にロボットを移動させる機能です。
+教示位置の確認、中途実行のための移動のとき使用します。
 位置移動ボタンを押している間に動くので、安全関連の注意が必要で、手を離した瞬間に停止します。　（実行画面での使用も可能です。）
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.1.jpg" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
 移動する位置を選択します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 番号確認後、位置移動ボタンを押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 位置が変更されると赤線が緑に変わります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 教示が完了したら「実行画面」ボタンを押して実行画面に戻ります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -38,40 +34,35 @@
 
 #### ■ 位置修正
 
-選択された番号の位置に現在のロボットの位置を上書きし修正します。\
+選択された番号の位置に現在のロボットの位置を上書きし修正します。
 （実行画面での使用も可能です。）
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
 修正する位置を選択します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 番号確認後、位置修正ボタンを押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 再度確認のメッセージを確認します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 位置が変更されると赤線が緑に変わります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 教示が完了したら「実行画面」ボタンを押して実行画面に戻ります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -81,31 +72,27 @@
 
 ある位置から連続で位置の変更を行う場合、変更の開始位置を選択して修正していくことができます。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.3.jpg" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
 修正を始める位置を選択します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 番号確認後、教示開始点変更ボタンを押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 変更区間を連続で教示を行います。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 教示が完了したら「実行画面」ボタンを押して実行画面に戻ります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -117,42 +104,42 @@
 {% step %}
 実行画面の左下の修正ボタンを押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 プログラム作成の画面に戻ります。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 修正が必要な位置を選択します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 変更を望む条件の数字をダブルタッチし、キーパッドを開きます。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 変更する数字を入力後、エンターを押します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.9.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 修正ボタンを押し、条件が変更されたか確認します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 設定完了を押して変更を終了します。
 
-<figure><img src="../img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter10/section10.1.11.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
