@@ -14,7 +14,7 @@
 
 #### ■ 溶接機
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>OTC DAIHEN</td><td><a href="../images/jp/chapter2/section2.4.jpg">DAIHEN</a></td></tr><tr><td>HYOSUNG</td><td><a href="../images/jp/chapter2/section2.5.jpg">HYUSUNG</a></td></tr><tr><td>ESAB</td><td><a href="../images/jp/chapter2/section2.6.pnjpg">ESAB</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>OTC DAIHEN</td><td><a href="../images/jp/chapter2/section2.4.jpg">DAIHEN</a></td></tr><tr><td>HYOSUNG</td><td><a href="../images/jp/chapter2/section2.5.jpg">HYUSUNG</a></td></tr><tr><td>ESAB</td><td><a href="../images/jp/chapter2/section2.6.jpg">ESAB</a></td></tr></tbody></table>
 
 
 
