@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: images/jp/banner.png
+cover: img/banner.png
 coverY: 0
 layout:
   cover:
