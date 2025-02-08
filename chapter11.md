@@ -12,30 +12,30 @@
 {% step %}
 新しいバージョンのソフトウェアをデスクトップへコピーします。
 
-<figure><img src="img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter11/section11.0.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 元にあったフォルダーから、フォルダーを新規バージョンのフォルダーへコピーします。（上書きします。）
 
-<figure><img src="img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter11/section11.0.2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 デスクトップのショートカットの上から右クリックして、＜Properties＞へ入り新規バージョンの経路へとプログラムファイルーの経理を変更します。
 
-<figure><img src="img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter11/section11.0.3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 タスクバーのショットを削除して修正したショートカットを入れ替えます。
 
-<figure><img src="img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter11/section11.0.4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 変更作業が終わったら既存のフォルダーを削除します。
 
-<figure><img src="img/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter11/section11.0.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
