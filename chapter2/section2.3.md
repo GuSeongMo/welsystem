@@ -2,13 +2,13 @@
 
 #### ■ 製品サイズ
 
-<figure><img src="../images/jp/chapter2/img00.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter2/section3.1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
 #### ■ 製品詳細
 
-<figure><img src="../.gitbook/assets/그림17.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter2/section3.2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 > 1.  FRAME\
 >     ROBOTや溶接機など 溶接に必要な装備を乗せる溶接パッケージです。
