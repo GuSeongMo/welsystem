@@ -2,7 +2,7 @@
 
 #### ■ 溶接機電源スイッチ
 
-<div align="left"><figure><img src="../images/jp/chapter5/section5.3.1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../images/jp/chapter5/section5.3.1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 溶接機の電源を ON/OFF します。溶接機の裏側にあります。
 
@@ -11,8 +11,6 @@
 > メーカーによっては入力電源が異なる場合があります。
 >
 > 接地を接続しないと、溶接機の安全性と溶接品質に影響を与える可能性があります。
-
-
 
 #### ■ 溶接機操作パネル
 

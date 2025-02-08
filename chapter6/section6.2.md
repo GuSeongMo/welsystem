@@ -9,43 +9,42 @@
 • 衝突または外力によって座標原点が歪んだ場合\
 • ロボットツールの角度や位置が変更された場合
 
-TCP設定変更時には、保存されたプログラム教示位置が変更されることに注意が必要です。
+TCP設定変更時には、保存されたプログラム教示位置が変更されることに注意が必要です。画面右側の「設定ボタン」を押します。
 {% endhint %}
 
 {% stepper %}
 {% step %}
-画面右側の「設定ボタン」を押します。
-
-<figure><img src="../images/jp/chapter6/section6.2.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 機能リストから「自動TCP設定」を選択します。
 
-<figure><img src="../images/jp/chapter6/section6.2.2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 「アクティベート」をチェックします。
 
-<figure><img src="../images/jp/chapter6/section6.2.3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 TCPツールなどを使用してワイヤの端をツールの端に合わせます。
 
-<figure><img src="../images/jp/chapter6/section6.2.4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
 {% step %}
 「取得」を押して現在値を記録します。\
 4回繰り返した後、「TCP情報変更」を押してTCP設定を完了します。
 
-<figure><img src="../images/jp/chapter6/section6.2.5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Global座標系のRX・RY・RZを操作し、設定したTCPを基準にツールが動いていることを確認します。
 
-<figure><img src="../images/jp/chapter6/section6.2.6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

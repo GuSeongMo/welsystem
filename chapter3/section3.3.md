@@ -4,7 +4,7 @@
 {% step %}
 ワイヤ取付台にワイヤを取り付けます。
 
-<figure><img src="../images/jp/chapter3/section3.3.1.jpg" alt=""><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../images/jp/chapter3/section3.3.1.jpg" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -37,4 +37,3 @@
 <figure><img src="../images/jp/chapter3/section3.3.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-

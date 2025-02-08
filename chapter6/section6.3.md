@@ -6,30 +6,32 @@
 {% step %}
 通信接続画面で右上の設定アイコンを押します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.3.1.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 「方法3」 非常直接教示を押します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.3.2.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 準備完了のメッセージが表示するまで待ってから、ロボットの直接教示ボタンを押したまま回避します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.3.3.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
+
+
 {% endstep %}
 
 {% step %}
 回避完了後、ロボットアームの電源を落とします。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.3.4.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 活性化を進めます。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.3.5.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter5/section5.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
