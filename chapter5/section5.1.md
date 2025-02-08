@@ -1,6 +1,6 @@
 # 5.1. ティーチングペンダント
 
-<figure><img src="../.gitbook/assets/그림47.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section1.1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 > 1.  メイン画面\
 >     減圧式パネルが適用された画面です。
