@@ -6,7 +6,7 @@
 
 #### ■ ロボット
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>RB3-1200 (RAINBOWROBOTICS)</td><td><a href="../images/jp/chapter2/section2.2.2.jpg">section2.2.2.jpg</a></td><td><a href="section2.2_rb3.md">section2.2_rb3.md</a></td></tr><tr><td>RB10-1300 (RAINBOWROBOTICS)</td><td><a href="../images/jp/chapter2/section2.2.3.jpg">section2.2.3.jpg</a></td><td><a href="section2.2_rb10.md">section2.2_rb10.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>RB3-1200 (RAINBOWROBOTICS)</td><td><a href="../images/jp/chapter2/section2.2.2.jpg">section2.2.2.jpg</a></td><td><a href="https://smartstore.naver.com/_jct/products/5214690889">https://smartstore.naver.com/_jct/products/5214690889</a></td></tr><tr><td>RB10-1300 (RAINBOWROBOTICS)</td><td><a href="../images/jp/chapter2/section2.2.3.jpg">section2.2.3.jpg</a></td><td><a href="https://smartstore.naver.com/_jct/products/5214695185">https://smartstore.naver.com/_jct/products/5214695185</a></td></tr></tbody></table>
 
 #### ■ 溶接機
 
