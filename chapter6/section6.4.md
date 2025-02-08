@@ -33,13 +33,12 @@ RainbowRobotics ロボットの各関節は-360から+360まで動くことが�
 {% step %}
 手で関節の角度を修正します。
 
-<figure><img src="../img/chapter6/section6.4.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 該当する関節が360以内に位置してから電源を切断します。
 
-
+<figure><img src="../img/chapter6/section6.4.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
