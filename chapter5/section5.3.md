@@ -2,7 +2,7 @@
 
 #### ■ 溶接機電源スイッチ
 
-<div align="left"><figure><img src="../images/jp/chapter5/section3.1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../images/jp/chapter5/section5.3.1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 溶接機の電源を ON/OFF します。溶接機の裏側にあります。
 
@@ -16,7 +16,7 @@
 
 #### ■ 溶接機操作パネル
 
-<figure><img src="../images/jp/chapter5/section3.2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter5/section5.3.2.jpg" alt=""><figcaption></figcaption></figure>
 
 溶接機の独自の設定を変更するパネルです。\
 ワイヤ、ガスなどの可溶火災が変わったり、短絡/パルスモードに切り替えるときに操作します。

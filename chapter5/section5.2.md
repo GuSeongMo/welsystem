@@ -2,7 +2,7 @@
 
 #### ■ 教示ボタン
 
-<div align="left"><figure><img src="../images/jp/chapter5/section2.1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../images/jp/chapter5/section5.2.1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ロボットを位置を記録する教示ボタンとして使用します。
 
@@ -10,7 +10,7 @@
 
 #### ■ 緊急停止ボタン
 
-<div align="left"><figure><img src="../images/jp/chapter5/section2.2.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../images/jp/chapter5/section5.2.2.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ロボット緊急停止ボタン、押すとロボットのパワーが遮断されます。
 
@@ -20,7 +20,7 @@
 
 |                                                                     |                                                                     |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="../images/jp/chapter5/section2.3.jpg" alt="" data-size="original"> | <img src="../images/jp/chapter5/section2.4.jpg" alt="" data-size="original"> |
+| <img src="../images/jp/chapter5/section5.2.3.jpg" alt="" data-size="original"> | <img src="../images/jp/chapter5/section5.2.4.jpg" alt="" data-size="original"> |
 
 コントローラの電源と制御電源はキースイッチで制御され、通常使用時には触れません。
 
