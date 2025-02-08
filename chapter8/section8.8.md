@@ -1,29 +1,29 @@
 # 8.8. ウィービング溶接
 
-ビング溶接は、設定されたTCPを基準にスウィングしながら溶接する機能です。\
-ウィービング溶接の種類としてはウィービング直線溶接、ウィービング曲線運転、\
-ウィービング転換曲線運転、多重ウィービング直線溶接があり、教示方法は前の7.4.\~7.7.までの\
+ビング溶接は、設定されたTCPを基準にスウィングしながら溶接する機能です。
+ウィービング溶接の種類としてはウィービング直線溶接、ウィービング曲線運転、
+ウィービング転換曲線運転、多重ウィービング直線溶接があり、教示方法は前の7.4.\~7.7.までの
 一般溶接動作と同じです。
 
 #### ■ ウィービング溶接条件設定画面
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../img/chapter8/section8.8.1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 > *   ウィービングモード選択
 >
->     ウィービング溶接の動作を選択します。\
+>     ウィービング溶接の動作を選択します。
 >
 > *   ウィービング方式選択
 >
 >     ウィービング方式を選択するウィンドウであり、
 >
->     選択変更時の参考イメージと変更数値リストが変わります。\
->     はしご、サイン波、三角、半円、円などがあります。\
+>     選択変更時の参考イメージと変更数値リストが変わります。
+>     はしご、サイン波、三角、半円、円などがあります。
 >
 > *   ウィービング参考画像
 >
->     選択されているウィービング方式の参考イメージと名前を表示する機能です。\
->     アイコンを押すと参考イメージを表示し、もう一度押すと解除されます。\
+>     選択されているウィービング方式の参考イメージと名前を表示する機能です。
+>     アイコンを押すと参考イメージを表示し、もう一度押すと解除されます。
 >
 > *   ウィービング条件設定
 >
@@ -38,9 +38,9 @@
 |                       |                       |
 | --------------------- | --------------------- |
 | ▶ はしご                 | ▶ 半円                  |
-| ![](broken-reference) | ![](broken-reference) |
+| ![](../img/chapter8/section8.8.2.jpg) | ![](../img/chapter8/section8.8.3.jpg) |
 | ▶ 三角                  |                       |
-| ![](broken-reference) |                       |
+| ![](../img/chapter8/section8.8.4.jpg) |                       |
 | L1(mm) : ↑方向幅         | ΔT1(s) : ΔT1位置での時間    |
 | L2(mm) : ↓方向幅         | ΔT2(s) : ΔT2位置での時間    |
 | Vel1(mm/s) : L1 速度    | ΔT3(s) : ΔT3 位置での時間   |
@@ -51,7 +51,7 @@
 |                        |                       |
 | ---------------------- | --------------------- |
 | ▶ サイン派                 | ▶ 円                   |
-| ![](broken-reference)  | ![](broken-reference) |
+| ![](../img/chapter8/section8.8.5.jpg)  | ![](../img/chapter8/section8.8.6.jpg) |
 | L1(mm) : ↑方向幅          | ΔT1(s) : ΔT1位置での時間    |
 | L2(mm) : ↓方向幅          | ΔT2(s) : ΔT2位置での時間    |
 | L(mm) : 円の半径           | ΔT3(s) : ΔT3 位置での時間   |
@@ -63,7 +63,7 @@
 
 #### ■ ウィービング溶接を行う時には進行方向に注意
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter8/section8.8.7.jpg" alt=""><figcaption></figcaption></figure>
 
 > * Torch Axisの修正は必要はありませんが、Weaving Axisは溶接進行方向と異なるように設定しなければなりません。
 > * 溶接方向がX軸方向であれば、溶接進行方向はY軸に設定する必要があり、トーチの角度は溶接開始と終了が同じでなければなりません。
@@ -73,8 +73,8 @@
 
 #### ■ 正しいウィービング例（サイン派）
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter8/section8.8.8.jpg" alt=""><figcaption></figcaption></figure>
 
 #### ■ 正しくないウィービング例（サイン派）
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter8/section8.8.9.jpg" alt=""><figcaption></figcaption></figure>
