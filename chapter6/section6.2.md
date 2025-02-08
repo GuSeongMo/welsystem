@@ -16,37 +16,36 @@ TCP設定変更時には、保存されたプログラム教示位置が変更�
 {% step %}
 画面右側の「設定ボタン」を押します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.2.1.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter6/section6.2.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 機能リストから「自動TCP設定」を選択します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.2.2.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter6/section6.2.2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 「アクティベート」をチェックします。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.2.3.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter6/section6.2.3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 TCPツールなどを使用してワイヤの端をツールの端に合わせます。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.2.4.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
-{% endstep %}
+<figure><img src="../images/jp/chapter6/section6.2.4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% step %}
 「取得」を押して現在値を記録します。\
 4回繰り返した後、「TCP情報変更」を押してTCP設定を完了します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.2.5.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter6/section6.2.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Global座標系のRX・RY・RZを操作し、設定したTCPを基準にツールが動いていることを確認します。
 
-<div align="left"><figure><img src="../images/jp/chapter6/section6.2.6.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../images/jp/chapter6/section6.2.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
