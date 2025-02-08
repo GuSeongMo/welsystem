@@ -28,6 +28,6 @@
 {% step %}
 ガスコントローラのプラグをコンセントに差し込みます。
 
-<figure><img src="../images/jp/chapter3/section4.4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter3/section4.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
