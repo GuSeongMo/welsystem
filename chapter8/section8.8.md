@@ -7,7 +7,7 @@
 
 #### ■ ウィービング溶接条件設定画面
 
-<figure><img src="../.gitbook/assets/그림4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="563"><figcaption></figcaption></figure>
 
 > *   ウィービングモード選択
 >
@@ -35,27 +35,27 @@
 
 #### ■ 各ウィービングの参考イメージ
 
-|                                 |                                 |
-| ------------------------------- | ------------------------------- |
-| ▶ はしご                           | ▶ 半円                            |
-| ![](../.gitbook/assets/그림6.png) | ![](../.gitbook/assets/그림6.png) |
-| ▶ 三角                            |                                 |
-| ![](../.gitbook/assets/그림6.png) |                                 |
-| L1(mm) : ↑方向幅                   | ΔT1(s) : ΔT1位置での時間              |
-| L2(mm) : ↓方向幅                   | ΔT2(s) : ΔT2位置での時間              |
-| Vel1(mm/s) : L1 速度              | ΔT3(s) : ΔT3 位置での時間             |
-| Vel2(mm/s) : L2 速度              | ΔT4(s) : ΔT4 位置での時間             |
-| θ(deg) :円弧の角度                   | 時間によって長くなります。                   |
-| 速すぎると衝突の恐れがあります。                | 不要な時は０に設定。                      |
+|                       |                       |
+| --------------------- | --------------------- |
+| ▶ はしご                 | ▶ 半円                  |
+| ![](broken-reference) | ![](broken-reference) |
+| ▶ 三角                  |                       |
+| ![](broken-reference) |                       |
+| L1(mm) : ↑方向幅         | ΔT1(s) : ΔT1位置での時間    |
+| L2(mm) : ↓方向幅         | ΔT2(s) : ΔT2位置での時間    |
+| Vel1(mm/s) : L1 速度    | ΔT3(s) : ΔT3 位置での時間   |
+| Vel2(mm/s) : L2 速度    | ΔT4(s) : ΔT4 位置での時間   |
+| θ(deg) :円弧の角度         | 時間によって長くなります。         |
+| 速すぎると衝突の恐れがあります。      | 不要な時は０に設定。            |
 
-|                                 |                                 |
-| ------------------------------- | ------------------------------- |
-| ▶ サイン派                          | ▶ 円                             |
-| ![](../.gitbook/assets/그림6.png) | ![](../.gitbook/assets/그림6.png) |
-| L1(mm) : ↑方向幅                   | ΔT1(s) : ΔT1位置での時間              |
-| L2(mm) : ↓方向幅                   | ΔT2(s) : ΔT2位置での時間              |
-| L(mm) : 円の半径                    | ΔT3(s) : ΔT3 位置での時間             |
-| CycleTime(s) : 円の1周の時間          | ΔT4(s) : ΔT4 位置での時間             |
+|                        |                       |
+| ---------------------- | --------------------- |
+| ▶ サイン派                 | ▶ 円                   |
+| ![](broken-reference)  | ![](broken-reference) |
+| L1(mm) : ↑方向幅          | ΔT1(s) : ΔT1位置での時間    |
+| L2(mm) : ↓方向幅          | ΔT2(s) : ΔT2位置での時間    |
+| L(mm) : 円の半径           | ΔT3(s) : ΔT3 位置での時間   |
+| CycleTime(s) : 円の1周の時間 | ΔT4(s) : ΔT4 位置での時間   |
 
 
 
@@ -63,7 +63,7 @@
 
 #### ■ ウィービング溶接を行う時には進行方向に注意
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > * Torch Axisの修正は必要はありませんが、Weaving Axisは溶接進行方向と異なるように設定しなければなりません。
 > * 溶接方向がX軸方向であれば、溶接進行方向はY軸に設定する必要があり、トーチの角度は溶接開始と終了が同じでなければなりません。
@@ -73,8 +73,8 @@
 
 #### ■ 正しいウィービング例（サイン派）
 
-<figure><img src="../.gitbook/assets/그림6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### ■ 正しくないウィービング例（サイン派）
 
-<figure><img src="../.gitbook/assets/그림6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>

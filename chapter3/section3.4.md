@@ -22,7 +22,7 @@
 {% step %}
 ホースをガスコントローラに接続します。
 
-<figure><img src="../images/jp/chapter3/section3.4.4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter3/section3.4.4 (1).jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

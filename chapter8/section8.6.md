@@ -3,7 +3,7 @@
 転換曲線溶接は曲線区間以後、直線に方向が変更されたり、曲線の方向が変わる時に使用されます。\
 溶接中の電流(A)・電圧(V)・速度(mm/s)、溶接の開始と終了時点の電流・電圧・IDLE時間を設定することができます。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### ■ 切替曲線溶接例
 

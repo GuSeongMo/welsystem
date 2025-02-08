@@ -6,7 +6,7 @@
 教示位置の確認、中途実行のための移動のとき使用します。\
 位置移動ボタンを押している間に動くので、安全関連の注意が必要で、手を離した瞬間に停止します。　（実行画面での使用も可能です。）
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -33,7 +33,7 @@
 選択された番号の位置に現在のロボットの位置を上書きし修正します。\
 （実行画面での使用も可能です。）
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -63,7 +63,7 @@
 
 ある位置から連続で位置の変更を行う場合、変更の開始位置を選択して修正していくことができます。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -91,7 +91,7 @@
 {% step %}
 実行画面の左下の修正ボタンを押します。
 
-<figure><img src="../.gitbook/assets/그림5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

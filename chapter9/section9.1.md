@@ -4,13 +4,13 @@
 {% step %}
 設定ページの溶接機設定からプラズマ装備をチェックして設定完了を押します。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 切断条件設定から切断出力を選択します。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -20,7 +20,7 @@
 
 #### ■ 切断条件の説明
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > * A : 切断指令電流
 > * Thick(mm) : 素材の厚さ。（参考用であり切断には影響ありません。）

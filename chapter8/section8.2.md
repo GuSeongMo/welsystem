@@ -1,6 +1,6 @@
 # 8.2. 溶接プログラムの作成
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > * 追加\
 >   溶接種類を選択し、溶接条件を選択した後、追加を押すと、溶接動作確認ウィンドウに進めます。\

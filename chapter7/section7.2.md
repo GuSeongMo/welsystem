@@ -2,7 +2,7 @@
 
 #### ■ 溶接選択画面
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > 1. 移動\
 >    溶接以外のロボットの移動に必要な動作を追加します。\
@@ -54,7 +54,7 @@
 
 #### ■ 教示画面
 
-<figure><img src="../.gitbook/assets/그림6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > 1.  手動テスト
 >
@@ -111,7 +111,7 @@
 
 #### ■ プログラム実行画面
 
-<figure><img src="../.gitbook/assets/그림6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > 1.  保存モード
 >

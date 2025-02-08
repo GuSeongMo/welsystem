@@ -7,7 +7,7 @@
 
 #### 待機位置に移動後、解除ボタンを押すまで作業を遅延できる機能です。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -19,4 +19,4 @@
 
 待機位置に移動後、設定の時間まで作業を遅延できる機能です。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>

@@ -5,7 +5,7 @@
 設定することができます。教示画面では、溶接開始点と終点の 3つのポイントが生成されます。\
 連続で溶接を行う場合は2つずつポイントが追加されます。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### ■ 曲線溶接例
 

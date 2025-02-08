@@ -2,9 +2,9 @@
 
 教示ボタンを押して、ロボットの現在座標をプログラムの該当の場所に保存できます。
 
-<figure><img src="../.gitbook/assets/그림6.png" alt=""><figcaption><p>&#x3C;ロボットの直接教示ボタン></p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>&#x3C;ロボットの直接教示ボタン></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/그림6.png" alt=""><figcaption><p>&#x3C;ペンダントの教示ボタン></p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>&#x3C;ペンダントの教示ボタン></p></figcaption></figure>
 
 {% hint style="success" %}
 **正しい教示方法**
@@ -30,11 +30,11 @@
 
 ティーチングペンダントの右にあるボタンを操作して教示位置に移動する方法であり、操作方法には「Joint」、「Global」、「Local」の3つがあります。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt="" width="375"><figcaption><p>＜ティーチングペンダントの手動操作ボタン＞</p></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="375"><figcaption><p>＜ティーチングペンダントの手動操作ボタン＞</p></figcaption></figure>
 
 * F1（座標系切替ボタン）：ボタンを押すと座標系を切替します。
 
-<table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/그림6.png" alt="" data-size="original"></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系</td></tr><tr><td><img src="../.gitbook/assets/그림6.png" alt=""></td><td>グローバル座標系</td><td>ロボット中心を基準に横、縦、垂直に動く座標系</td></tr><tr><td></td><td>ツール座標系</td><td>ロボットTCPを基準に横、縦に垂直に動く座標系</td></tr></tbody></table>
+<table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="broken-reference" alt="" data-size="original"></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系</td></tr><tr><td><img src="broken-reference" alt=""></td><td>グローバル座標系</td><td>ロボット中心を基準に横、縦、垂直に動く座標系</td></tr><tr><td></td><td>ツール座標系</td><td>ロボットTCPを基準に横、縦に垂直に動く座標系</td></tr></tbody></table>
 
 * F2（手動速度切替ボタン)：ボタンを押すと3つの速度に切替します。
 
@@ -60,4 +60,4 @@
 
     溶接プログラム動作中の場合、溶接中の条件変更機能にも使用されます。
 
-<figure><img src="../.gitbook/assets/그림5.png" alt=""><figcaption><p>&#x3C; 座標系参考 ></p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>&#x3C; 座標系参考 ></p></figcaption></figure>

@@ -4,7 +4,7 @@
 電流(A)、電圧(V)、時間(sec)の条件を設定します。\
 教示画面では１つのポイントが生成されます。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### ■ 仮付け溶接例
 

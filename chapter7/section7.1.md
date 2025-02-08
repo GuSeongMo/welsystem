@@ -1,6 +1,6 @@
 # 7.1. メイン画面
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 > 1. ロゴマーク\
 >    タッチするとデスクトップに移動できます。\

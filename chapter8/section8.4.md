@@ -4,7 +4,7 @@
 教示画面では、溶接開始点と終点の 2 つのポイントが生成されます。\
 連続で溶接を行う場合は１つずつポイントが追加されます。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### ■ 直線溶接例
 

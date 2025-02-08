@@ -4,7 +4,7 @@
 設定した円の内側から切っていきます。\
 切断には電流(A)、Start(mm)、Work(mm)、Delay(s)、Speed(mm/s)、電圧(V)、kerf(mm)、time(s)、Radius(r)の設定が使用されるので必ず入力してください。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -4,5 +4,4 @@
 
 ロボットが次の目的地に移動する際に各関節が自主的に動くため、狭い区間では衝突の恐れがあり、広い空間での使用をお勧めします。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
