@@ -49,7 +49,7 @@
 * 1± \~ 3± / X± \~ Z± （手動操作ボタン1）
   （溶接プログラム動作中の溶接中の位置操作機能にも使用されます。）
 
-<table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><img src="../icon/joint.ax.png" alt=""><td></td><td>低関節座標系</td><td>J1・J2・J3関節を±方向に制御します。</td></tr><tr><td><img src="../icon/global.ax.png" alt=""></td><td>グローバル座標系</td><td>直交X・Y・Zを±方向に制御します。</td></tr><tr><td><img src="../icon/tool.ax.png" alt=""></td><td>ツール座標系</td><td>トーチの先端を基準に、X・Y・Zを±方向に制御します。</td></tr></tbody></table>
+<table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../icon/joint.ax.png" alt=""></td><td>低関節座標系</td><td>J1・J2・J3関節を±方向に制御します。</td></tr><tr><td><img src="../icon/global.ax.png" alt=""></td><td>グローバル座標系</td><td>直交X・Y・Zを±方向に制御します。</td></tr><tr><td><img src="../icon/tool.ax.png" alt=""></td><td>ツール座標系</td><td>トーチの先端を基準に、X・Y・Zを±方向に制御します。</td></tr></tbody></table>
 
 * 4± \~ 6± / RX± \~ RZ± （ 手動操作ボタン２）
 
