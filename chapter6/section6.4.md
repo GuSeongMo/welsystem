@@ -39,14 +39,12 @@ RainbowRobotics ロボットの各関節は-360から+360まで動くことが�
 {% step %}
 該当する関節が360以内に位置してから電源を切断します。
 
-<figure><img src="../img/chapter6/section6.4.6.jpg" alt=""><figcaption></figcaption></figure>
-
 
 {% endstep %}
 
 {% step %}
 活性化を進めます。
 
-<figure><img src="../img/chapter6/section6.4.7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../img/chapter6/section6.4.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
