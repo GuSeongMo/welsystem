@@ -6,13 +6,13 @@ RB プログラムを使用するにはロボットの活性化が必要です�
 {% step %}
 デスクトップでRBアイコンを起動します。
 
-<figure><img src="../.gitbook/assets/그림54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter6/section6.1.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 MAKEボタンを押します。
 
-<figure><img src="../.gitbook/assets/그림55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter6/section6.1.2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -20,26 +20,26 @@ MAKEボタンを押します。
 
 
 
-<figure><img src="../.gitbook/assets/그림56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter6/section6.1.3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 接続設定でTCP / IP接続を選択します。
 
-<figure><img src="../.gitbook/assets/그림57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter6/section6.1.4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 IPを入力し、下の接続ボタンを押します。\
 初期設定IPは「10.0.2.7」です。
 
-<figure><img src="../.gitbook/assets/그림58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter6/section6.1.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 接続が完了したら、活性化ボタンを押します。
 
-<figure><img src="../.gitbook/assets/그림59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/jp/chapter6/section6.1.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -48,7 +48,7 @@ IPを入力し、下の接続ボタンを押します。\
 
 |                                                                     |                                                                     |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="../.gitbook/assets/그림60.png" alt="" data-size="original"> | <img src="../.gitbook/assets/그림61.png" alt="" data-size="original"> |
+| <img src="../images/jp/chapter6/section6.1.7.jpg" alt="" data-size="original"> | <img src="../images/jp/chapter6/section6.1.8.jpg" alt="" data-size="original"> |
 {% endstep %}
 
 {% step %}
@@ -57,6 +57,6 @@ MAKE画面に戻りReal Robotモードに変更すると、ロボット側面の
 
 |                                                                     |                                                                     |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="../.gitbook/assets/그림62.png" alt="" data-size="original"> | <img src="../.gitbook/assets/그림63.png" alt="" data-size="original"> |
+| <img src="../images/jp/chapter6/section6.1.9.jpg" alt="" data-size="original"> | <img src="../images/jp/chapter6/section6.1.10.jpg" alt="" data-size="original"> |
 {% endstep %}
 {% endstepper %}
