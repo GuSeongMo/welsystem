@@ -2,23 +2,23 @@
 
 ロボットが活性化中に他の物体に触れていると、外力を受けたと考えて活性化になりません。 非常直接教示は、その状態を回避する機能です。
 
-
-
 {% stepper %}
 {% step %}
 通信接続画面で右上の設定アイコンを押します。
 
-
+<figure><img src="../img/chapter6/section6.3.1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 「方法3」 非常直接教示を押します。
 
-
+<figure><img src="../img/chapter6/section6.3.2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 準備完了のメッセージが表示するまで待ってから、ロボットの直接教示ボタンを押したまま回避します。
+
+<figure><img src="../img/chapter6/section6.3.3.jpg" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -26,13 +26,12 @@
 {% step %}
 回避完了後、ロボットアームの電源を落とします。
 
-
+<figure><img src="../img/chapter6/section6.3.4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 活性化を進めます。
 
-
+<figure><img src="../img/chapter6/section6.3.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-

@@ -4,5 +4,4 @@
 
 ロボットが次の目的地に移動する際に一直線に動く為、回避区間でよく使用します。
 
-<figure><img src="../.gitbook/assets/그림4.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../img/chapter8/section8.11.1.jpg" alt=""><figcaption></figcaption></figure>

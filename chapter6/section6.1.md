@@ -2,68 +2,57 @@
 
 RB プログラムを使用するにはロボットの活性化が必要です。
 
+{% stepper %}
+{% step %}
+デスクトップでRBアイコンを起動します。
+
+<figure><img src="../img/chapter6/section6.1.1.jpg" alt=""><figcaption></figcaption></figure>
 
 
-1.  デスクトップでRBアイコンを起動します。\
+{% endstep %}
 
+{% step %}
+MAKEボタンを押します。
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림54.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../img/chapter6/section6.1.2.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
+{% step %}
+右上の通信ボタンを押します。
 
-2.  MAKEボタンを押します。\
+<figure><img src="../img/chapter6/section6.1.3.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
+{% step %}
+接続設定でTCP / IP接続を選択します。
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림55.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../img/chapter6/section6.1.4.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
+{% step %}
+IPを入力し、下の接続ボタンを押します。\
+初期設定IPは「10.0.2.7」です。
 
-3.  右上の通信ボタンを押します。\
+<figure><img src="../img/chapter6/section6.1.5.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
+{% step %}
+接続が完了したら、活性化ボタンを押します。
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림56.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../img/chapter6/section6.1.6.jpg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
+{% step %}
+起動が始まり、四角の中のすべてのランプが点灯するまで待ちます。\
+起動が完了すると、ロボット側面のLEDが2つ点灯します。
 
-4.  接続設定でTCP / IP接続を選択します。\
+<div><figure><img src="../img/chapter6/section6.1.7.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../img/chapter6/section6.1.8.jpg" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
 
+{% step %}
+MAKE画面に戻りReal Robotモードに変更すると、ロボット側面のLEDが3つ点灯します。\
+ロボットの活性化が完了します。シミュレーションモードでは、実際のロボットは動作しません。
 
-    <div align="left"><figure><img src="../.gitbook/assets/그림57.png" alt=""><figcaption></figcaption></figure></div>
-
-
-5.  IPを入力し、下の接続ボタンを押します。\
-    初期設定IPは「10.0.2.7」です。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림58.png" alt=""><figcaption></figcaption></figure></div>
-
-
-6.  接続が完了したら、活性化ボタンを押します。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림59.png" alt=""><figcaption></figcaption></figure></div>
-
-
-7.  起動が始まり、四角の中のすべてのランプが点灯するまで待ちます。\
-    起動が完了すると、ロボット側面のLEDが2つ点灯します。\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림60.png" alt=""><figcaption></figcaption></figure></div>
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림61.png" alt=""><figcaption></figcaption></figure></div>
-
-
-8.  MAKE画面に戻りReal Robotモードに変更すると、ロボット側面のLEDが3つ点灯します。
-
-    ロボットの活性化が完了します。シミュレーションモードでは、実際のロボットは動作しません。\
-    \
-    ![](../.gitbook/assets/그림62.png)\
-
-
-    <div align="left"><figure><img src="../.gitbook/assets/그림63.png" alt=""><figcaption></figcaption></figure></div>
-
-
-
-
-
-
-
-
-
+<div><figure><img src="../img/chapter6/section6.1.9.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../img/chapter6/section6.1.10.jpg" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
