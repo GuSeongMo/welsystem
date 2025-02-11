@@ -23,7 +23,7 @@
 溶接プログラムの実行が不可能となり、ミスによる起動を防ぐことが出来ます。
 ペンダントのキーパッドや画面のボタンでのロボット操作は可能です。
 
-<figure><img src="../img/chapter10/section10.2.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.2.1.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -32,7 +32,7 @@
 溶接プログラムを望むポイントから実行することが出来ます。
 希望するモーション番号に変更し位置を移動させた後、途中実行ボタンを押してください。入力した位置から作業が始まります。
 
-<figure><img src="../img/chapter10/section10.2.2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.2.2.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -40,13 +40,13 @@
 
 溶接中、リアルタイムで溶接位置を動かしたり、電流や電圧を確認しながら条件を変更することができです。
 
-<figure><img src="../img/chapter10/section10.2.3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.2.3.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ■ 操作パネルの説明
 
-<figure><img src="../img/chapter10/section10.2.4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.2.4.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   溶接中位置操作
 >

@@ -3,7 +3,7 @@
 転換曲線溶接は曲線区間以後、直線に方向が変更されたり、曲線の方向が変わる時に使用されます。
 溶接中の電流(A)・電圧(V)・速度(mm/s)、溶接の開始と終了時点の電流・電圧・IDLE時間を設定することができます。
 
-<figure><img src="../img/chapter8/section8.6.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.1.jpg" alt=""><figcaption></figcaption></figure>
 
 #### ■ 切替曲線溶接例
 
@@ -11,72 +11,72 @@
 {% step %}
 切替曲線溶接するポイントを設定します。
 
-<figure><img src="../img/chapter8/section8.6.2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 メイン画面で溶接選択をクリックします。
 
-<figure><img src="../img/chapter8/section8.6.3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 切替曲線溶接 > 溶接条件選択 > 追加 > 設定完了を行います。
 
-<figure><img src="../img/chapter8/section8.6.4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 作業の開始位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 作業進入前の位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 切替曲線溶接位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 次の切替曲線溶接の位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 切替曲線溶接の終了及び直線溶接の開始位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.9.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 直線溶接の終了位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 作業完了後、回避位置を教示します。
 
-<figure><img src="../img/chapter8/section8.6.11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.11.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 作業終了位置の教示します。
 
-<figure><img src="../img/chapter8/section8.6.12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.12.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 実行ボタンを押して溶接を行います。（モードの確認！）
 
-<figure><img src="../img/chapter8/section8.6.13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.6.13.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

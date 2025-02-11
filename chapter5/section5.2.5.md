@@ -6,7 +6,7 @@
 
 #### ■ 多層盛り溶接の使用方法
 
-<figure><img src="../img/chapter8/section8.7.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.7.1.jpg" alt=""><figcaption></figcaption></figure>
 
 > 1. 作業回数を設定します。6回までになっております。
 > 2. 各層のシフト量を設定します。

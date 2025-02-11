@@ -22,6 +22,8 @@
   * [4.5 サポート・購入](chapter4/section4.5.md)
 * [5. 溶接プログラムの作成](chapter5/README.md)
   * [5.1 操作・教示方法](chapter5/section5.1.md)
+    * [5.1.1 直接教示](chapter5/section5.1.1.md)
+	* [5.1.2 ペンダント教示](chapter5/section5.1.2.md)  
   * [5.2 溶接プログラムの作成](chapter5/section5.2.md)
     * [5.2.1 仮接溶接](chapter5/section5.2.1.md)
     * [5.2.2 直線溶接](chapter5/section5.2.2.md)

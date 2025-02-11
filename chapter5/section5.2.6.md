@@ -7,7 +7,7 @@
 
 #### ■ ウィービング溶接条件設定画面
 
-<figure><img src="../img/chapter8/section8.8.1.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="./img/section5.8.1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 > *   ウィービングモード選択
 >
@@ -38,9 +38,9 @@
 |                       |                       |
 | --------------------- | --------------------- |
 | ▶ はしご                 | ▶ 半円                  |
-| ![](../img/chapter8/section8.8.2.jpg) | ![](../img/chapter8/section8.8.3.jpg) |
+| ![](./img/section5.8.2.jpg) | ![](./img/section5.8.3.jpg) |
 | ▶ 三角                  |                       |
-| ![](../img/chapter8/section8.8.4.jpg) |                       |
+| ![](./img/section5.8.4.jpg) |                       |
 | L1(mm) : ↑方向幅         | ΔT1(s) : ΔT1位置での時間    |
 | L2(mm) : ↓方向幅         | ΔT2(s) : ΔT2位置での時間    |
 | Vel1(mm/s) : L1 速度    | ΔT3(s) : ΔT3 位置での時間   |
@@ -51,7 +51,7 @@
 |                        |                       |
 | ---------------------- | --------------------- |
 | ▶ サイン派                 | ▶ 円                   |
-| ![](../img/chapter8/section8.8.5.jpg)  | ![](../img/chapter8/section8.8.6.jpg) |
+| ![](./img/section5.8.5.jpg)  | ![](./img/section5.8.6.jpg) |
 | L1(mm) : ↑方向幅          | ΔT1(s) : ΔT1位置での時間    |
 | L2(mm) : ↓方向幅          | ΔT2(s) : ΔT2位置での時間    |
 | L(mm) : 円の半径           | ΔT3(s) : ΔT3 位置での時間   |
@@ -63,7 +63,7 @@
 
 #### ■ ウィービング溶接を行う時には進行方向に注意
 
-<figure><img src="../img/chapter8/section8.8.7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.8.7.jpg" alt=""><figcaption></figcaption></figure>
 
 > * Torch Axisの修正は必要はありませんが、Weaving Axisは溶接進行方向と異なるように設定しなければなりません。
 > * 溶接方向がX軸方向であれば、溶接進行方向はY軸に設定する必要があり、トーチの角度は溶接開始と終了が同じでなければなりません。
@@ -73,8 +73,8 @@
 
 #### ■ 正しいウィービング例（サイン派）
 
-<figure><img src="../img/chapter8/section8.8.8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.8.8.jpg" alt=""><figcaption></figcaption></figure>
 
 #### ■ 正しくないウィービング例（サイン派）
 
-<figure><img src="../img/chapter8/section8.8.9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.8.9.jpg" alt=""><figcaption></figcaption></figure>

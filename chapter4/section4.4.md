@@ -4,7 +4,7 @@
 
 頻繁に使用する溶接条件データを事前に保存できます。
 
-<figure><img src="../img/chapter7/section7.4.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/set_1.jpg" alt=""><figcaption></figcaption></figure>
 
 > * &#x20;各項目を選択すると、値を変更できます。
 >
@@ -14,7 +14,7 @@
 
 
 
-<figure><img src="../img/chapter7/section7.4.2.jpg" alt=""><figcaption><p>※ 保存した条件を確認できます。</p></figcaption></figure>
+<figure><img src="./img/set_2.jpg" alt=""><figcaption><p>※ 保存した条件を確認できます。</p></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@
 
 #### ■ 交通機能設定画面
 
-<figure><img src="../img/chapter7/section7.4.3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/set_3.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   言語設定
 >
@@ -66,7 +66,7 @@
 
 #### ■ 電源・TCP設定画面
 
-<figure><img src="../img/chapter7/section7.4.4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/set_4.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   連動機器設定
 >
@@ -92,7 +92,7 @@
 
 #### ■ 溶接機能設定画面
 
-<figure><img src="../img/chapter7/section7.4.5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/set_5.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   Arc ON Signal
 >

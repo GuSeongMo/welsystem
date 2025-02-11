@@ -1,6 +1,6 @@
 # 7.1. メイン画面
 
-<figure><img src="../img/chapter7/section7.1.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/main_1.jpg" alt=""><figcaption></figcaption></figure>
 
 > 1. ロゴマーク タッチするとデスクトップに移動できます。
 >

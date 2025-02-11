@@ -1,6 +1,6 @@
 # 8.2. 溶接プログラムの作成
 
-<figure><img src="../img/chapter8/section8.2.1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.2.1.jpg" alt=""><figcaption></figcaption></figure>
 
 > * 追加
 >   溶接種類を選択し、溶接条件を選択した後、追加を押すと、溶接動作確認ウィンドウに進めます。
