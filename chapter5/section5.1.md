@@ -1,10 +1,10 @@
-# 8.1. 教示方法
+# 5.1 教示方法
 
 教示ボタンを押して、ロボットの現在座標をプログラムの該当の場所に保存できます。
 
-<figure><img src="./img/section5.1.1.jpg" alt=""><figcaption><p>&#x3C;ロボットの直接教示ボタン></p></figcaption></figure>
+<figure><img src="./img/section5.1_1.jpg" alt=""><figcaption><p>&#x3C;ロボットの直接教示ボタン></p></figcaption></figure>
 
-<figure><img src="./img/section5.1.2.jpg" alt=""><figcaption><p>&#x3C;ペンダントの教示ボタン></p></figcaption></figure>
+<figure><img src="./img/section5.1_2.jpg" alt=""><figcaption><p>&#x3C;ペンダントの教示ボタン></p></figcaption></figure>
 
 {% hint style="success" %}
 **正しい教示方法**

@@ -5,7 +5,7 @@
 
 ティーチングペンダントの右にあるボタンを操作して教示位置に移動する方法であり、操作方法には「Joint」、「Global」、「Local」の3つがあります。
 
-<figure><img src="./img/section5.1.4.jpg" alt=""><figcaption><p>＜ティーチングペンダントの手動操作ボタン＞</p></figcaption></figure>
+<figure><img src="./img/section5.1.2_1.jpg" alt=""><figcaption><p>＜ティーチングペンダントの手動操作ボタン＞</p></figcaption></figure>
 
 * F1（座標系切替ボタン）：ボタンを押すと座標系を切替します。
 
@@ -35,4 +35,4 @@
 
     溶接プログラム動作中の場合、溶接中の条件変更機能にも使用されます。
 
-<figure><img src="./img/section5.1.5.jpg" alt=""><figcaption><p>&#x3C; 座標系参考 ></p></figcaption></figure>
+<figure><img src="./img/section5.1.2_2.jpg" alt=""><figcaption><p>&#x3C; 座標系参考 ></p></figcaption></figure>
