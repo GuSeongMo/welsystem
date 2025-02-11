@@ -104,42 +104,42 @@
 {% step %}
 実行画面の左下の修正ボタンを押します。
 
-<figure><img src="./img/section5.3_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 プログラム作成の画面に戻ります。
 
-<figure><img src="./img/section5.3_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 修正が必要な位置を選択します。
 
-<figure><img src="./img/section5.3_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 変更を望む条件の数字をダブルタッチし、キーパッドを開きます。
 
-<figure><img src="./img/section5.3_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 変更する数字を入力後、エンターを押します。
 
-<figure><img src="./img/section5.3_9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 修正ボタンを押し、条件が変更されたか確認します。
 
-<figure><img src="./img/section5.3_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_9.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 設定完了を押して変更を終了します。
 
-<figure><img src="./img/section5.3_11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/section5.3_10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
