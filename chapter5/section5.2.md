@@ -1,23 +1,13 @@
-# 5.2. ロボット
+# 8.2. 溶接プログラムの作成
 
-#### ■ 教示ボタン
+<figure><img src="../img/chapter8/section8.2.1.jpg" alt=""><figcaption></figcaption></figure>
 
-<div align="center"><figure><img src="../img/chapter5/section5.2.1.jpg" alt=""><figcaption></figcaption></figure></div>
+> * 追加
+>   溶接種類を選択し、溶接条件を選択した後、追加を押すと、溶接動作確認ウィンドウに進めます。
+>
+> * 修正
+>   追加し終わった動作の溶接種類や溶接条件を修正します。
+>
+> * 削除
+>   動作を削除します。
 
-ロボットを位置を記録する教示ボタンとして使用します。
-
-#### ■ 緊急停止ボタン
-
-<div align="center"><figure><img src="../img/chapter5/section5.2.2.jpg" alt=""><figcaption></figcaption></figure></div>
-
-ロボット緊急停止ボタン、押すとロボットのパワーが遮断されます。
-
-#### ■ ロボット電源スイッチ
-
-|                                                                                |                                                                                |
-| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| <img src="../img/chapter5/section5.2.3.jpg" alt="" data-size="original"> | <img src="../img/chapter5/section5.2.4.jpg" alt="" data-size="original"> |
-
-コントローラの電源と制御電源はキースイッチで制御され、通常使用時には触れません。
-
-必要な状況以外の作業はお勧めできません
