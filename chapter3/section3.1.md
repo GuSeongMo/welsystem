@@ -4,8 +4,7 @@
 {% step %}
 スイッチボックスのキースイッチをオンにします。
 
-<figure><img src="./img/
-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/on_1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
