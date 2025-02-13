@@ -2,8 +2,8 @@
 
 * [welsystem Operation Manual](README.md)
 * [1. 안전 및 주의사항](chapter1/README.md)
-  * [1.1 사용자 설명서의 안전표시](chapter1/section1.1.md)
-  * [1.2 일반 안전 경오 및 주의사항](chapter1/section1.2.md)
+  * [1.1 설명서의 안전표시](chapter1/section1.1.md)
+  * [1.2 일반 안전 경고 및 주의사항](chapter1/section1.2.md)
   * [1.3 잠재적 위험](chapter1/section1.3.md)
 * [2. 제품소개](chapter2/README.md)
   * [2.1 제품 라인업](chapter2/section2.1.md)
