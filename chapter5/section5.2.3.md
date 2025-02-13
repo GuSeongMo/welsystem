@@ -1,90 +1,87 @@
-# 8.5. 曲線溶接
+# 5.2.3 곡선용접
 
-曲線溶接は、パイプやカーブなど直線ではないところを溶接するときに使用します。
-溶接中の電流(A)・電圧(V)・速度(mm/s)、溶接の開始と終了時点の電流・電圧・IDLE時間を
-設定することができます。教示画面では、溶接開始点と終点の 3つのポイントが生成されます。
-連続で溶接を行う場合は2つずつポイントが追加されます。
+곡선 용접은 파이프나 커브 등 직선이 아닌 곳을 용접할 때 사용합니다. 용접중의 전류(A)·전압(V)·속도(mm/s), 용접의 시작과 종료 시점의 전류·전압·IDLE 시간을 설정할 수 있습니다.교시 화면에서는 용접 시작점과 끝점의 3가지 포인트가 생성됩니다. 연속으로 용접을 하는 경우는 2개씩 포인트가 추가됩니다.
 
-<figure><img src="./img/section5.2.3_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_1.jpg" alt=""><figcaption></figcaption></figure>
 
-#### ■ 曲線溶接例
+#### ■  곡선용접 예시
 
 {% stepper %}
 {% step %}
-曲線溶接するポイントを設定します。
+곡선 용접할 포인트를 설정합니다.
 
-<figure><img src="./img/section5.2.3_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-メイン画面で溶接選択をクリックします。
+메인 화면에서 용접 선택을 클릭합니다.
 
-<figure><img src="./img/section5.2.3_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-曲線溶接 > 溶接条件選択 > 追加 > 設定完了を行います。
+곡선용접 > 용접조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="./img/section5.2.3_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業の開始位置を教示します。
+작업의 시작 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業進入前の位置を教示します。
+작업 진입 전 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-曲線溶接の開始位置を教示します。
+곡선 용접의 시작 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-次の曲線溶接の位置を教示します。
+다음 곡선 용접의 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-次の曲線溶接の位置を教示します。
+다음 곡선 용접의 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_9.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-次の曲線溶接の位置を教示します。
+다음 곡선 용접의 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-曲線溶接の終了位置を教示します。
+곡선 용접의 종료 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_11.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業完了後、回避位置を教示します。
+작업 완료 후 회피 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.3_12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_12.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業終了位置の教示します。
+작업 종료 위치의 교시합니다.
 
-<figure><img src="./img/section5.2.3_13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_13.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-実行ボタンを押して溶接を行います。（モードの確認！）
+실행 버튼을 눌러 용접을 실시합니다.(모드 확인!)
 
-<figure><img src="./img/section5.2.3_14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.3_14.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

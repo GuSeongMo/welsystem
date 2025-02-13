@@ -29,7 +29,7 @@
     * [5.2.2 직선용접](chapter5/section5.2.2.md)
     * [5.2.3 곡선용접](chapter5/section5.2.3.md)
     * [5.2.4 전환곡선용접](chapter5/section5.2.4.md)
-    * [5.2.5 다층용접 (멀티레이어)](chapter5/section5.2.5.md)
+    * [5.2.5 다중직선용접 (멀티레이어)](chapter5/section5.2.5.md)
     * [5.2.6 위빙용접](chapter5/section5.2.6.md)
   * [5.3 프로그램 수정](chapter5/section5.3.md)
   * [5.4 실행 모드 설명](chapter5/section5.4.md)
