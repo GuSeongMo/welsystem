@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: img/banner.png
+cover: banner.png
 coverY: 0
 layout:
   cover:

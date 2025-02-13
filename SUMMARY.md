@@ -23,7 +23,7 @@
 * [5. 溶接プログラムの作成](chapter5/README.md)
   * [5.1 操作・教示方法](chapter5/section5.1.md)
     * [5.1.1 直接教示](chapter5/section5.1.1.md)
-	* [5.1.2 ペンダント教示](chapter5/section5.1.2.md)  
+    * [5.1.2 ペンダント教示](chapter5/section5.1.2.md)
   * [5.2 溶接プログラムの作成](chapter5/section5.2.md)
     * [5.2.1 仮接溶接](chapter5/section5.2.1.md)
     * [5.2.2 直線溶接](chapter5/section5.2.2.md)
@@ -33,8 +33,7 @@
     * [5.2.6 ウィービング溶接](chapter5/section5.2.6.md)
   * [5.3 プログラムの修正](chapter5/section5.3.md)
   * [5.4 実行モードの説明](chapter5/section5.4.md)
-  * [5.5 プログラムの管理](chapter5/section5.5.md)
+  * [5.5 プログラムの管理](chapter5/55-puroguramuno/README.md)
     * [5.5.1 プログラムの保存](chapter5/section5.5.1.md)
     * [5.5.2 プログラムの読取](chapter5/section5.5.2.md)
 * [6. ソフトウェアのアップデータ](chapter6.md)
-
