@@ -1,11 +1,6 @@
 ---
 icon: hand-wave
-cover: banner.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -18,5 +13,5 @@ layout:
     visible: true
 ---
 
-# welsystem User Manual
+# welsystem Operation Manual
 

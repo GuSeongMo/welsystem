@@ -1,6 +1,6 @@
 # Table of contents
 
-* [welsystem User Manual](README.md)
+* [welsystem Operation Manual](README.md)
 * [1. 安全及び注意事項](chapter1/README.md)
   * [1.1 取扱説明書の安全表示](chapter1/section1.1.md)
   * [1.2 一般安全警告及び注意事項](chapter1/section1.2.md)
