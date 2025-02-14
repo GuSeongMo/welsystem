@@ -1,59 +1,59 @@
-# 10.4. プログラムの読み取り
+# 5.5.2 프로그램 읽기
 
-#### ■ 直接読み取る方法
+#### ■ 직접 읽기
 
 {% stepper %}
 {% step %}
-メイン画面から「プログラム選択」を押します。
+메인 화면에서 '프로그램 선택'을 누릅니다.
 
-<figure><img src="./img/section5.5.2_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-「読み取り」ボタンを押せばウィンドウエクスプローラが表示されます。
+읽기 버튼을 누르면 창 탐색기가 나타납니다.
 
-<figure><img src="./img/section5.5.2_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-DATAフォルダの中のプログラムを選択して開きます。
+DATA 폴더 안의 프로그램을 선택하여 열기버튼을 누릅니다.
 
-<figure><img src="./img/section5.5.2_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-設定完了を選択して読み取ることが出来ます。
+설정 완료를 선택해 저장된 프로그램을 읽어올 수 있습니다.
 
-<figure><img src="./img/section5.5.2_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-複数のプログラムを読み取ることも可能です。
+여러 프로그램을 읽을 수도 있습니다.
 
-<figure><img src="./img/section5.5.2_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-この場合、上から順番に行っていきます。
+이 경우 위에서부터 차례로 진행합니다.
 
-<figure><img src="./img/section5.5.2_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
 ***
 
-#### ■ 読み取りモードの使用
+#### ■ 읽기 모드 사용
 
 {% stepper %}
 {% step %}
-画面の左上の「読み取りモード」ボタンを選択します。
+화면의 왼쪽 상단의 \[읽기 모드]버튼을 선택합니다.
 
-<figure><img src="./img/section5.5.2_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-実行させるプログラムの番号を選択した後、設定完了を行います。
+실행시킬 프로그램의 번호를 선택한 후 설정 완료를 진행합니다.
 
-<figure><img src="./img/section5.5.2_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

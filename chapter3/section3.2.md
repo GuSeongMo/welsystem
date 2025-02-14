@@ -1,27 +1,29 @@
-# 4.2. シャットダウン
+# 3.2 종료
+
+
 
 {% stepper %}
 {% step %}
-welsystem プログラムを終了します。
+welsystem 을 종료합니다.
 
-<figure><img src="./img/off_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/off_1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-スイッチボックスのキースイッチをOFFに変更します。
+키 스위치를 OFF 로 전환합니다.
 
-<figure><img src="./img/off_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/off_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-溶接機の電源を切ります。
+용접기의 전원을 차단합니다.
 
-<figure><img src="./img/off_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/off_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-ガス筒のバルブを閉じます。
+가스통의 밸브를 잠궈줍니다.
 
-<figure><img src="./img/off_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/off_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

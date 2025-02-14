@@ -1,71 +1,73 @@
-# 8.4. 直線溶接
+# 5.2.2 직선용접
 
-直線溶接は、一直線の溶接が必要な場合に使用します。溶接中の電流(A)・電圧(V)・速度(mm/s)、溶接の開始と終了時点の電流・電圧・IDLE時間を設定することができます。
-教示画面では、溶接開始点と終点の 2 つのポイントが生成されます。
-連続で溶接を行う場合は１つずつポイントが追加されます。
+직선 용접은 일직선의 용접이 필요한 경우에 사용합니다.
 
-<figure><img src="./img/section5.2.2_1.jpg" alt=""><figcaption></figcaption></figure>
+용접중의 전류(A), 전압(V), 속도(mm/s), 용접의 개시와 종료 시점의 전류, 전압, IDLE 시간을 설정할 수 있습니다. 교시 화면에서는 용접 시작점과 끝점의 2개의 포인트가 생성됩니다.&#x20;
 
-#### ■ 直線溶接例
+연속으로 용접을 하는 경우는 1개씩 포인트가 추가됩니다.
+
+<figure><img src="img/section5.2.2_1.jpg" alt=""><figcaption></figcaption></figure>
+
+#### ■ 직선용접예시
 
 {% stepper %}
 {% step %}
-直線溶接するポイントを設定します。
+직선 용접을 진행 할 위치를 확인합니다.
 
-<figure><img src="./img/section5.2.2_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-メイン画面で溶接選択をクリックします。
+메인 화면에서 용접 선택을 클릭합니다.
 
-<figure><img src="./img/section5.2.2_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-直線溶接 > 溶接条件選択 > 追加 > 設定完了を行います。
+직선용접 > 용접조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="./img/section5.2.2_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業の開始位置を教示します。
+작업의 시작 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.2_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業進入前の位置を教示します。
+작업 진입 전 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.2_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-直線溶接の開始位置を教示します。
+직선 용접의 시작 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.2_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-直線溶接の終了位置を教示します。
+직선 용접의 종료 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.2_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業完了後、回避位置を教示します。
+작업 완료 후 회피 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.2_9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_9.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業終了位置の教示します。
+작업 종료 위치의 교시합니다.
 
-<figure><img src="./img/section5.2.2_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-実行ボタンを押して溶接を行います。（モードの確認！）
+실행 버튼을 눌러 용접을 실시합니다.(모드 확인!)
 
-<figure><img src="./img/section5.2.2_11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_11.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

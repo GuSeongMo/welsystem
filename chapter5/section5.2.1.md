@@ -1,65 +1,65 @@
-# 5.2.1 仮接溶接
+# 5.2.1 가접용접
 
-仮接溶接は、本溶接の前に素材の固定、または熱変形防止のために使用する機能です。
-電流(A)、電圧(V)、時間(sec)の条件を設定します。
-教示画面では１つのポイントが生成されます。
+가접용접은 본 용접 전에 소재의 고정 또는 열 변형 방지를 위해 사용하는 기능입니다.&#x20;
 
-<figure><img src="./img/section5.2.1_1.jpg" alt=""><figcaption></figcaption></figure>
+전류(A), 전압(V), 시간(sec)의 조건을 설정합니다. 교시 화면에서는 하나의 포인트가 생성됩니다.
 
-#### ■ 仮付け溶接例
+<figure><img src="img/section5.2.1_1.jpg" alt=""><figcaption></figcaption></figure>
+
+#### ■ 가접용접 예시
 
 {% stepper %}
 {% step %}
-仮接溶接するポイントを設定します。
+가접 작업을 할 위치를 확인합니다.
 
-<figure><img src="./img/section5.2.1_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-メイン画面で溶接選択をクリックします。
+메인 화면에서 용접 선택을 클릭합니다.
 
-<figure><img src="./img/section5.2.1_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-仮接溶接 > 溶接条件選択 > 追加 > 設定完了を行います。
+가접용접 > 용접조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="./img/section5.2.1_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業の開始位置を教示します。
+작업의 시작 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.1_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_5.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業進入前の位置を教示します。
+작업 진입 전 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.1_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_6.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-仮接溶接位置を教示します。
+가접 용접 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.1_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_7.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業完了後、回避位置を教示します。
+작업 완료 후 회피 위치를 교시합니다.
 
-<figure><img src="./img/section5.2.1_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-作業終了位置の教示します。
+작업 종료 위치의 교시합니다.
 
-<figure><img src="./img/section5.2.1_9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_9.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-実行ボタンを押して溶接を行います。（モードの確認！）
+실행 버튼을 눌러 용접을 실시합니다.(모드 확인!)
 
-<figure><img src="./img/section5.2.1_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
