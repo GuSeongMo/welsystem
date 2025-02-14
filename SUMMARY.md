@@ -36,4 +36,4 @@
   * [5.5 프로그램 관리](chapter5/section5.5.md)
     * [5.5.1 프로그램 저장](chapter5/section5.5.1.md)
     * [5.5.2 프로그램 읽기](chapter5/section5.5.2.md)
-* [6. 소프트웨어 업데이트](chapter6.md)
+* [6. 소프트웨어 업데이트](chapter6/README.md)
