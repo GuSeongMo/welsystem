@@ -10,7 +10,7 @@
 {% endstep %}
 
 {% step %}
-「読み取り」ボタンを押せばウィンドウエクスプローラが表示されます。
+「読み取り」ボタンを押せばウィンドウエクスプローラが表示されます。1
 
 <figure><img src="img/section5.5.2_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
