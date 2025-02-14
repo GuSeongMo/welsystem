@@ -16,7 +16,7 @@
 {% step %}
 メイン画面で溶接選択をクリックします。
 
-<figure><img src="img/section5.2.1_3 (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
