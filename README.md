@@ -1,5 +1,7 @@
 ---
 icon: hand-wave
+cover: ./img/banner.png
+coverY: 0
 layout:
   title:
     visible: true
