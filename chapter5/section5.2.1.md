@@ -16,7 +16,7 @@
 {% step %}
 メイン画面で溶接選択をクリックします。
 
-<figure><img src="img/section5.2.1_3 (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -46,7 +46,7 @@
 {% step %}
 作業完了後、回避位置を教示します。
 
-<figure><img src="https://github.com/GuSeongMo/welsystem/blob/JAPANESE/chapter5/img/section5.2.1_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_8.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -58,6 +58,6 @@
 {% step %}
 実行ボタンを押して溶接を行います。（モードの確認！）
 
-<figure><img src="img/section5.2.1_10 (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.1_10.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

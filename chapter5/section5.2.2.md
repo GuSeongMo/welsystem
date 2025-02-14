@@ -2,7 +2,7 @@
 
 直線溶接は、一直線の溶接が必要な場合に使用します。溶接中の電流(A)・電圧(V)・速度(mm/s)、溶接の開始と終了時点の電流・電圧・IDLE時間を設定することができます。 教示画面では、溶接開始点と終点の 2 つのポイントが生成されます。 連続で溶接を行う場合は１つずつポイントが追加されます。
 
-<figure><img src="img/section5.2.2_1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.2.2_1.jpg" alt=""><figcaption></figcaption></figure>
 
 #### ■ 直線溶接例
 

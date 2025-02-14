@@ -36,4 +36,4 @@
   * [5.5 プログラムの管理](chapter5/55-puroguramuno/README.md)
     * [5.5.1 プログラムの保存](chapter5/section5.5.1.md)
     * [5.5.2 プログラムの読取](chapter5/section5.5.2.md)
-* [6. ソフトウェアのアップデータ](chapter6.md)
+* [6. ソフトウェアのアップデータ](chapter6/section6.md)
