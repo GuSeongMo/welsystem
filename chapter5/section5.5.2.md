@@ -12,7 +12,7 @@
 {% step %}
 「読み取り」ボタンを押せばウィンドウエクスプローラが表示されます。
 
-<figure><img src="https://github.com/GuSeongMo/welsystem/blob/JAPANESE/chapter5/img/section5.5.2_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="img/section5.5.2_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
