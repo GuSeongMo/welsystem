@@ -10,7 +10,7 @@
 
 {% stepper %}
 {% step %}
-가접 작업을할 포인트를 설정합니다.
+가접 작업을 할 위치를 확인합니다.
 
 <figure><img src="img/section5.2.1_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}

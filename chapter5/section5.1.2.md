@@ -3,7 +3,7 @@
 #### ■ 팬던트 교시
 
 티칭 펜던트의 오른쪽에 있는 버튼을 조작하여 교시 위치로 이동하는 방법이며, \
-조작 방법에는 "Joint", "Global", "Local" 세 가지가 있습니다.
+조작 방법에는 Joint, Global, Local 세 가지가 있습니다.
 
 <figure><img src="img/section5.1.2_1.jpg" alt=""><figcaption><p>＜티칭팬던트의수동조작버튼＞</p></figcaption></figure>
 

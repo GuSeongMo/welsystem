@@ -2,7 +2,7 @@
 
 전환곡선용접은 곡선 구간 이후 직선으로 방향이 변경되거나 곡선의 방향이 바뀔 때 사용됩니다.&#x20;
 
-용접중의 전류(A)·전압(V)·속도(mm/s), 용접의 개시와 종료 시점의 전류, 전압, IDLE 시간을 설정할 수 있습니다.
+용접중의 전류(A), 전압(V), 속도(mm/s), 용접의 개시와 종료 시점의 전류, 전압, IDLE 시간을 설정할 수 있습니다.
 
 <figure><img src="img/section5.2.4_1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -10,7 +10,7 @@
 
 {% stepper %}
 {% step %}
-전환 곡선 용접할 포인트를 설정합니다.
+전환 곡선 용접할 위치를 확인합니다.
 
 <figure><img src="img/section5.2.4_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
