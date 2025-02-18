@@ -35,6 +35,6 @@ JWS의 경우 중량은 약 350Kg 입니다.
 
 {% step %}
 이동할 위치에 도달한 후, 저속으로 하강한다.
-<figure><img src="img/section2.1.1_5.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="img/section2.1.1_5.jpg" alt="" width="563"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
