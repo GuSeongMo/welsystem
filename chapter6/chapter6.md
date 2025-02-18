@@ -4,11 +4,11 @@
 
 자주 사용하는 용접 조건 데이터를 사전에 저장할 수 있습니다.
 
-<figure><img src="chapter4/img/set_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="chapter6/img/set_1.jpg" alt=""><figcaption></figcaption></figure>
 
 > * 각 항목을 선택하면 값을 변경할 수 있습니다.
 
-<figure><img src="chapter4/img/set_2.jpg" alt=""><figcaption><p>※ 保存した条件を確認できます。</p></figcaption></figure>
+<figure><img src="chapter6/img/set_2.jpg" alt=""><figcaption><p>※ 保存した条件を確認できます。</p></figcaption></figure>
 
 > *   용접 조건은 10개까지 저장할 수 있습니다.
 >
@@ -20,7 +20,7 @@
 
 #### ■ 공통기능설정화면
 
-<figure><img src="chapter4/img/set_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="chapter6/img/set_3.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   언어 설정
 >
@@ -56,7 +56,7 @@
 
 #### ■ 전원 / TCP 설정화면
 
-<figure><img src="chapter4/img/set_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="chapter6/img/set_4.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   연동 기기 설정
 >
@@ -78,7 +78,7 @@
 
 #### ■ 용접기설정화면
 
-<figure><img src="chapter4/img/set_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="chapter6/img/set_5.jpg" alt=""><figcaption></figcaption></figure>
 
 > *   Arc ON Signal
 >
