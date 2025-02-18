@@ -14,7 +14,7 @@
 * [3. ブートとシャットダウン](chapter3/README.md)
   * [3.1 ブート](chapter3/section3.1.md)
   * [3.2 シャットダウン](chapter3/section3.2.md)
-* [4. WELSYSTEM UIの説明](chapter4/README.md)
+* [4. WELSYSTEM UI 説明](chapter4/README.md)
   * [4.1 メイン画面](chapter4/section4.1.md)
   * [4.2 溶接選択画面](chapter4/section4.2.md)
   * [4.3 プログラム選択画面](chapter4/section4.3.md)
