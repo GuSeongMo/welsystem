@@ -10,7 +10,7 @@
     * [2.1 운반 방법](jws/chapter2/section2.1/README.md)
       * [2.1.1 크레인 사용에 관하여](jws/chapter2/section2.1/sub1.md)
       * [2.1.2 지게차의 사용에 관하여](jws/chapter2/section2.1/sub2.md)
-    * [2.2 설치 방법](jws/chapter2/section2.2.md)
+    * [2.2 설치 방법](jws/chapter2/section2.2/README.md)
       * [2.2.1 프레임 설치](jws/chapter2/section2.2/sub1.md)
       * [2.2.2 전원 연결](jws/chapter2/section2.2/sub2.md)
       * [2.2.3 와이어 연결](jws/chapter2/section2.2/sub3.md)
