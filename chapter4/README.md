@@ -1,2 +1,2 @@
-# 7. WELSYSTEM プログラムの説明
+# 7. WELSYSTEM S/W 설명
 
