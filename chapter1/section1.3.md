@@ -1,19 +1,19 @@
-# 1.3 잠재적 위험
+# 1.3 Potential Risk
 
-본 설비의 운용에 있어서는 시스템 및 로봇암에 내장된 안전기능 외에 추가적인 보호대책을 준비할 필요가 있습니다.&#x20;
+In the operation of this facility, it is necessary to prepare additional protective measures in addition to the safety functions built into the system and robot arms.&#x20;
 
-다음과 같은 잠재적인 위험을 고려해야 합니다.
+The following potential risks should be considered.
 
 {% hint style="warning" %}
-**주의**
+**Caution**
 {% endhint %}
 
-* 용접 시 가스통의 전도나 충격 등에 의한 폭발 위험
-* 주변 가연성 물질에 불꽃 튐으로인한 화재 발생
-* 불꽃, 용접 등에 의한 작업자의 화상
-* 로봇 작업간의 토치 접촉으로 인한 외상
-* 로봇과의 충돌로 인한 상해
+* Risk of explosion due to conduction or impact of gas cylinder during welding
+* Fire caused by sparks in surrounding combustible materials
+* Image of worker by flame, welding, etc
+* Trauma due to torch contact between robot tasks
+* injury caused by collision with the robot
 
 {% hint style="info" %}
-상기 항목에 제한된 것은 아닙니다.
+It is not limited to the above items.
 {% endhint %}

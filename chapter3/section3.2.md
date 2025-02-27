@@ -1,28 +1,28 @@
-# 3.2 종료
+# 3.2 Shutdown
 
 
 
 {% stepper %}
 {% step %}
-welsystem 을 종료합니다.
+Shut down the welsystem.
 
 <figure><img src="img/off_1.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-키 스위치를 OFF 로 전환합니다.
+Switch the key switch to OFF.
 
 <figure><img src="img/off_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-용접기의 전원을 차단합니다.
+Disconnect the power of the welding machine.
 
 <figure><img src="img/off_3.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-가스통의 밸브를 잠궈줍니다.
+Lock the valve of the gas cylinder.
 
 <figure><img src="img/off_4.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}

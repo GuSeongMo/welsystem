@@ -1,2 +1,2 @@
-# 2. 제품소개
+# 2. Product introduction
 

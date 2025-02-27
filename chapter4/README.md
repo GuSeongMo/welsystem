@@ -1,2 +1,2 @@
-# 7. WELSYSTEM S/W 설명
+# 7. WELSYSTEM UI Description
 

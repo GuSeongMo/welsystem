@@ -1,2 +1,2 @@
-# 4. 부팅 및 종료
+# 4. Boot and Shutdown
 

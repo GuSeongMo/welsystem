@@ -1,25 +1,24 @@
 # 1.1 설명서의 안전표시
 
-본 설명서에서는 다음과 같은 안전표시가 사용됩니다.
+The following safety signs are used in this document.
 
 {% hint style="danger" %}
-**위험**
+**Dangers**
 {% endhint %}
 
-이 표시가 있는 지시사항을 준수하지 않을 경우 심각한 사고를 초래할 수 있으며, 그로 인해 작업자 또는 사용자가 사망하거나 심각한 상해를 입을 수 있습니다.
+Failure to comply with instructions with this mark can result in serious accidents, resulting in death or serious injury to the operator or user.
 
 
 
 {% hint style="warning" %}
-**경고**
+**Warning**
 {% endhint %}
 
-이 표시가 있는 지시사항을 준수하지 않을 경우 사고가 발생할 수 있으며, 그로 인해 작업자 또는 사용자가 심각한 상해를 입을 수 있습니다.
-
+Failure to comply with instructions with this mark can result in accidents, which can result in serious injury to the operator or user.
 
 
 {% hint style="warning" %}
-**주의**
+**Caution**
 {% endhint %}
 
-이 표시가 있는 지시사항을 따르지 않을 경우 제품이 손상되거나 작업자 또는 사용자가 상해를 입을 수 있습니다.
+Failure to follow instructions with this mark may result in damage to the product or injury to the operator or user.

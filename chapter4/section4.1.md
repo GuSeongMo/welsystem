@@ -1,8 +1,8 @@
-# 4.1 메인화면
+# 4.1 Main Screen
 
 <figure><img src="img/main_1.jpg" alt=""><figcaption></figcaption></figure>
 
-> 1. 로고\
+> 1. LOGO\
 >    회사 로고 입니다.\
 >    터치 시, PC 의 바탕화면으로의 전환이 가능합니다.
 > 2. 스테이터스바\

@@ -1,48 +1,48 @@
-# 1.2 일반 안전 경고 및 주의사항
+# 1.2 General Safety Warnings and Precautions
 
-이 항목은 본 사용자설명서의 다른 부분에서 반복 또는 설명할 수 있는 일반적인 위험과 경고 및 주의가 포함되어 있으며, 기타 경고 및 주의도 소개되어 있습니다.
+This topic contains common risks and warnings and cautions that can be repeated or described elsewhere in this User's Guide, as well as other warnings and cautions.
 
 {% hint style="danger" %}
-**위험**
+**Dangers**
 {% endhint %}
 
-* 본 제품 및 용접기에 전원을 연결할 경우 안전 지시사항에 따라 로봇 및 전기 장비를 설치해야 합니다.
+* When connecting power to this product and welder, robots and electrical equipment must be installed according to the safety instructions.
 
 {% hint style="warning" %}
-**경고**
+**Warning**
 {% endhint %}
 
-* 장비를 조작하는 사용자는 본 메뉴얼의 내용을 숙지한후 설비를 조작할 필요가 있습니다.
-* 장비를 사용할 때는 느슨해진 옷이나 장신구를 착용하지 말아 주세요. \
-  머리가 길 경우에는 머리를 뒤로 묶어서 로봇의 관절 등에 끼이지 않도록 주의하세요.
-* 파손된 장비는 절대 사용하지 마십시오.
-* 소프트웨어에서 치명적인 오류가 발생하면 즉시 비상정지하고 제품 공급자 또는 제조업체에 연락하십시오.
-* 로봇의 교시를 위해 팬던트 사용할 때는, 로봇의 움직임에 주의해 주세요.
-* 로봇의 운용 중에는, 로봇의 작동 범위내에 들어가서는 안 되며, 로봇을 만지지 말아 주세요.
-* 장비를 절대로 개조하지 마십시오.\
-  사용자 임의로 제품을 변경하거나 개조하여 발생한 문제에 대해 제조사는 어떠한 책임도 지지 않습니다.
-* 설비나 로봇은 장시간 사용하면 열이 발생합니다.   장시간 사용 후에는 설비를 만지지 마십시오. \
-  설비를 만질 필요가 있는 경우는, 컨트롤러의 전원을 끄고 충분히 냉각한 후에 만져 주세요.
-* 로봇이 외부 물체와 충돌할 때에는 상당한 수준의 운동에너지가 발생하며, 이는 속도와 가반하중에 비례합니다.
-* 직접교시기능은 안전한 환경에서 사용해야 합니다. \
-  툴이나 주변의 설치물에 날카로운 부분이 있거나 끼임이 발생하는 부분이 있을 때는 사용하지 말아 주세요.
-* 직접교시기능을 사용할 때 일정 속도 이상으로 관절을 작동시키면 사용자의 안전을 위해 비상정지 될 수 있습니다.
+* The user operating the equipment must be familiar with the contents of this manual before operating the equipment.
+* Do not wear loose clothes or accessories when using the equipment. \
+  If your hair is long, tie your hair back and be careful not to get stuck in the robot's joints.
+* Never use damaged equipment.
+* If the software experiences a fatal error, immediately make an emergency stop and contact your product provider or manufacturer.
+* When using the pendant for teaching the robot, pay attention to the movement of the robot.
+* While operating, do not enter the robot's operating range and do not touch the robot.
+* Never modify the equipment.\
+  The manufacturer shall not take any responsibility for any problems caused by user's arbitrary changes or modifications to the product.
+* Facilities or robots generate heat when used for a long time. Do not touch the facility after prolonged use.\
+  If you need to touch the equipment, turn off the controller and cool it sufficiently before touching it.
+* When a robot collides with an external object, it generates a significant amount of kinetic energy, which is proportional to the speed and the carrying load.
+* The direct class function should be used in a safe environment.\
+  Do not use tools or peripheral installations when there are sharp or jamming parts.
+* When using the direct class function, operating the joint at a certain speed or higher can cause emergency stops for the safety of the user.
 
 {% hint style="warning" %}
-**주의**
+**Caution**
 {% endhint %}
 
-설비에 피해를 줄 수 있는 기계 또는 다른 로봇과 함께 사용하는 경우에는 사용 전에 모든 기능을 따로 테스트하는 것이 좋습니다.&#x20;
+It is recommended that all functions be tested separately before use when used with a machine or other robot that may damage the facility.&#x20;
 
-프로그래밍 오류 또는 로봇 장애로 인해 다른 기계나 로봇에 손상을 주거나 착용한 경우 제조사는 책임을 지지 않습니다.
+The manufacturer shall not be responsible for any damage or wear to another machine or robot due to a programming error or robot failure.
 
-* 로봇을 강한 자기장에 노출시키지 마세요. 로봇이 손상될 수 있습니다.
+* Do not expose the robot to strong magnetic fields. The robot may be damaged.
 
 {% hint style="warning" %}
-**경고 (전기 안전)**
+**Warning (Electrical Safety)**
 {% endhint %}
 
-* 전기 장치에 의한 감전의 위험이 있는 장소에 경고 표지판을 부착합니다.
-* 경고 표지판을 찢거나 손상되거나 제거하지 마십시오. \
-  경고표지가 부착된 부품이나 장치는 물론 주변 부품을 취급할 때 주의해 주십시오.
-* 전기적인 충격을 피하려면 내부의 전기 부품을 만지지 마십시오.
+* Attach warning signs to places where there is a risk of electric shock by electrical devices.
+* Do not tear, damage or remove warning signs.\
+  Be careful when handling parts or devices with warning signs as well as surrounding parts.
+* To avoid an electrical shock, do not touch the electrical components inside.
