@@ -63,7 +63,7 @@
 
 ***
 
-#### ■ 올바른 위빙예(사인파)
+#### ■ 올바른 위빙 예(사인파)
 
 <figure><img src="img/section5.2.6_8.jpg" alt=""><figcaption></figcaption></figure>
 
