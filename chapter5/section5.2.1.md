@@ -18,7 +18,7 @@
 {% step %}
 메인 화면에서 용접 선택을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (2).png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (2).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
