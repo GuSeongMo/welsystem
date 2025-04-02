@@ -8,7 +8,7 @@
 
 #### ■ 다중직선용접 예시
 
-<figure><img src="img/section5.2.5_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 00 48.png" alt=""><figcaption></figcaption></figure>
 
 > 1. 작업 횟수를 설정합니다. 6회까지로 되어 있습니다.
 > 2. 각 층의 시프트량을 설정합니다.

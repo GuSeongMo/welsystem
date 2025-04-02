@@ -4,7 +4,7 @@
 
 용접중의 전류(A), 전압(V), 속도(mm/s), 용접의 개시와 종료 시점의 전류, 전압, IDLE 시간을 설정할 수 있습니다.
 
-<figure><img src="img/section5.2.4_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 51 50 (5).png" alt=""><figcaption></figcaption></figure>
 
 #### ■ 전환곡선용접 예시
 
@@ -24,7 +24,7 @@
 {% step %}
 전환 곡선 용접 > 용접 조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="img/section5.2.4_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 51 50 (6).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -6,7 +6,7 @@
 
 #### ■ 위빙용접 조건설정 화면
 
-<figure><img src="img/section5.2.6_1.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 51 50 (7).png" alt=""><figcaption></figcaption></figure>
 
 > *   위빙 모드 선택
 >

@@ -6,7 +6,7 @@
 
 연속으로 용접을 하는 경우는 1개씩 포인트가 추가됩니다.
 
-<figure><img src="img/section5.2.2_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 51 50.png" alt=""><figcaption></figcaption></figure>
 
 #### ■ 직선용접예시
 
@@ -26,7 +26,7 @@
 {% step %}
 직선용접 > 용접조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="img/section5.2.2_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 51 50 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
