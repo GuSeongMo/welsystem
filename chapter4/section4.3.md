@@ -2,7 +2,7 @@
 
 #### ■ 프로그램 선택 화면
 
-<figure><img src="img/p_sel_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 13 01 08 (4).png" alt=""><figcaption></figcaption></figure>
 
 > 1.  읽기모드
 >
