@@ -21,7 +21,7 @@
 
 #### ■ 다중프로그램 실행
 
-<figure><img src="img/p_sel_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 15 59 47.png" alt=""><figcaption></figcaption></figure>
 
 > *   다중 프로그램 표시창
 >
