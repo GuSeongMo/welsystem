@@ -4,7 +4,7 @@
 
 로봇을 직접 손으로 움직이며, 교시하고 싶은 위치에서 교시 버튼을 눌러 위치를 저장할 수 있습니다. (위치를 수정할 경우 펜던트의 "돌아가기"로 교시를 취소할 수 있습니다.)
 
-<figure><img src="img/section5.1.1_1.jpg" alt=""><figcaption><p>＜티칭팬던트 수동조작버튼＞</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 13 59 28.png" alt=""><figcaption><p>＜티칭팬던트 수동조작버튼＞</p></figcaption></figure>
 
 {% stepper %}
 {% step %}

@@ -1,6 +1,6 @@
 # 5.2 용접 프로그램 작성
 
-<figure><img src="img/section5.2_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 05 15.png" alt=""><figcaption></figcaption></figure>
 
 > *   추가
 >
@@ -8,4 +8,6 @@
 > * 수정\
 >   추가한 동작의 용접 종류나 용접 조건을 수정합니다.
 > * 삭제\
->   동작을 삭제합니다.
+>   개별동작을 삭제합니다.
+> * 전체 삭제\
+>   전체 동작을 삭제합니다.

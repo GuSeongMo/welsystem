@@ -4,7 +4,7 @@
 
 전류(A), 전압(V), 시간(sec)의 조건을 설정합니다. 교시 화면에서는 하나의 포인트가 생성됩니다.
 
-<figure><img src="img/section5.2.1_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00.png" alt=""><figcaption></figcaption></figure>
 
 #### ■ 가접용접 예시
 
@@ -18,13 +18,13 @@
 {% step %}
 메인 화면에서 용접 선택을 클릭합니다.
 
-<figure><img src="img/section5.2.1_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 가접용접 > 용접조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="img/section5.2.1_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -60,6 +60,6 @@
 {% step %}
 실행 버튼을 눌러 용접을 실시합니다.(모드 확인!)
 
-<figure><img src="img/section5.2.1_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
