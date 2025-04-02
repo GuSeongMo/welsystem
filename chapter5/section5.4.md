@@ -30,7 +30,7 @@
 
 펜던트의 키패드나 화면의 버튼으로 로봇 조작은 가능합니다.
 
-<figure><img src="img/section5.4_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@
 
 입력한 위치에서 작업이 시작됩니다.
 
-<figure><img src="img/section5.4_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 17 59 36.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -50,13 +50,13 @@
 
 용접 중 실시간으로 용접 위치를 움직이거나 전류나 전압을 확인하면서 조건을 변경할 수 있습니다.
 
-<figure><img src="img/section5.4_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 17 59 36 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### ■ 조작 패널 설명
 
-<figure><img src="img/section5.4_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 17 59 36 (3).png" alt=""><figcaption></figcaption></figure>
 
 > *   용접 위치 조작
 >
