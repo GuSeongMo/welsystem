@@ -20,7 +20,7 @@
 {% step %}
 메인 화면에서 용접 선택을 클릭합니다.
 
-<figure><img src="img/section5.2.2_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -68,6 +68,6 @@
 {% step %}
 실행 버튼을 눌러 용접을 실시합니다.(모드 확인!)
 
-<figure><img src="img/section5.2.2_11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
