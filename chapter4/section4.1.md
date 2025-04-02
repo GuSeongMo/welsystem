@@ -1,6 +1,6 @@
 # 4.1 메인화면
 
-<figure><img src="img/main_1.jpg" alt=""><figcaption></figcaption></figure>
+<div align="right" data-full-width="false"><figure><img src="../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure></div>
 
 > 1. 로고\
 >    회사 로고 입니다.\
