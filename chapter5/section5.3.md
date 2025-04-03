@@ -1,6 +1,6 @@
 # 5.3 프로그램 수정
 
-#### ■ 위치 이동
+#### ■ 로봇 이동
 
 교시되어 있는 위치로 로봇을 이동시키는 기능입니다.&#x20;
 
@@ -10,7 +10,35 @@
 
 (실행화면에서의 사용도 가능합니다.)
 
-<figure><img src="img/section5.3_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 03 51.png" alt=""><figcaption></figcaption></figure>
+
+{% stepper %}
+{% step %}
+번호를 확인 후 위치 이동 버튼을 누릅니다.
+{% endstep %}
+
+{% step %}
+위치가 이동 완료 되면 버튼이 녹색으로 바뀝니다.
+{% endstep %}
+
+{% step %}
+교시가 완료되면 '실행화면' 버튼을 눌러 실행화면으로 돌아갑니다.
+{% endstep %}
+{% endstepper %}
+
+***
+
+#### ■ 부가축 이동
+
+교시되어 있는 위치로 부가축을 이동시키는 기능입니다.&#x20;
+
+교시 위치 확인, 중도 실행을 위한 이동 시 사용합니다.&#x20;
+
+위치이동 버튼을 누르는 동안 움직이므로 안전 관련 주의가 필요하며 손을 놓는 순간 정지합니다.&#x20;
+
+(부가축이 적용되어  있어야 합니다.)
+
+<figure><img src="../.gitbook/assets/2025-04-03 14 16 41.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -32,7 +60,7 @@
 
 선택된 번호의 위치에 현재 로봇의 위치를 덮어쓰고 수정합니다. (실행화면에서의 사용도 가능합니다.)
 
-<figure><img src="img/section5.3_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 03 51 (4).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -62,7 +90,7 @@
 
 어떤 위치에서 연속으로 위치를 변경할 경우 변경 시작 위치를 선택하여 수정해 나갈 수 있습니다.
 
-<figure><img src="img/section5.3_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 03 51 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
