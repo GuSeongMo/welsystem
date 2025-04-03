@@ -1,5 +1,7 @@
 # 5.4 실행 모드 설명
 
+<div align="left"><figure><img src="../.gitbook/assets/2025-04-03 13 36 27 (2).png" alt=""><figcaption></figcaption></figure></div>
+
 #### ■ 확인 운전
 
 작성된 용접 프로그램을 용접하지 않고 수행하는 모드입니다.&#x20;
@@ -30,7 +32,7 @@
 
 펜던트의 키패드나 화면의 버튼으로 로봇 조작은 가능합니다.
 
-<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 13 36 27 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
