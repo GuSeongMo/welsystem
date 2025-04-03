@@ -114,42 +114,48 @@
 {% step %}
 실행 화면의 왼쪽 하단 수정 버튼을 누릅니다.
 
-<figure><img src="img/section5.3_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 45 41 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-프로그램 작성 화면으로 돌아갑니다.
+확인메시지의 "용접조건수정"을 선택합니다.
 
-<figure><img src="img/section5.3_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 45 41.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+용접조건 설정 창으로 이동 합니다.
+
+<figure><img src="../.gitbook/assets/2025-04-03 14 37 18.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 수정이 필요한 위치를 선택합니다.
 
-<figure><img src="img/section5.3_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 37 18 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 변경을 원하는 조건의 숫자를 더블 터치하고 키패드를 엽니다.
 
-<figure><img src="img/section5.3_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 40 49 (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 변경할 숫자를 입력한 후 엔터를 누릅니다.
 
-<figure><img src="img/section5.3_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 56 39.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 수정 버튼을 눌러 조건이 변경되었는지 확인합니다.
 
-<figure><img src="img/section5.3_9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 37 18 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 설정 완료를 눌러 변경을 종료합니다.
 
-<figure><img src="img/section5.3_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-03 14 37 18 (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
