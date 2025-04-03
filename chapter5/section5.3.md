@@ -14,15 +14,11 @@
 
 {% stepper %}
 {% step %}
-이동할 위치를 선택합니다.
+번호를 확인 후 위치 이동 버튼을 누릅니다.
 {% endstep %}
 
 {% step %}
-번호 확인 후 위치 이동 버튼을 누릅니다.
-{% endstep %}
-
-{% step %}
-위치가 변경되면 빨간 선이 녹색으로 바뀝니다.
+위치가 이동 완료 되면 버튼이 녹색으로 바뀝니다.
 {% endstep %}
 
 {% step %}
@@ -40,7 +36,7 @@
 
 {% stepper %}
 {% step %}
-수정할 위치를 선택합니다.
+수정할 위치로 로봇을 이동 합니다.
 {% endstep %}
 
 {% step %}
@@ -52,7 +48,7 @@
 {% endstep %}
 
 {% step %}
-위치가 변경되면 빨간 선이 녹색으로 바뀝니다.
+위치가 변경되면 버튼이 녹색으로 바뀝니다.
 {% endstep %}
 
 {% step %}
@@ -69,10 +65,6 @@
 <figure><img src="img/section5.3_3.jpg" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
-{% step %}
-수정을 시작할 위치를 선택합니다.
-{% endstep %}
-
 {% step %}
 번호 확인 후 교시 시작점 변경 버튼을 누릅니다.
 {% endstep %}

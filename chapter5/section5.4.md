@@ -1,8 +1,8 @@
 # 5.4 실행 모드 설명
 
-<div align="left"><figure><img src="../.gitbook/assets/2025-04-03 13 36 27 (2).png" alt=""><figcaption></figcaption></figure></div>
-
 #### ■ 확인 운전
+
+<div align="left"><figure><img src="../.gitbook/assets/2025-04-03 13 36 27 (2).png" alt=""><figcaption></figcaption></figure></div>
 
 작성된 용접 프로그램을 용접하지 않고 수행하는 모드입니다.&#x20;
 
@@ -18,6 +18,8 @@
 
 #### ■ 용접 운전
 
+<div align="left"><figure><img src="../.gitbook/assets/2025-04-03 13 36 27 (3).png" alt=""><figcaption></figcaption></figure></div>
+
 작성된 용접 프로그램을 실제 용접을 실행하는 모드입니다.&#x20;
 
 확인 운전 중 셀렉트 스위치를 용접 운전으로 바꾸면 바로 용접을 실시하므로 주의가 필요합니다.&#x20;
@@ -27,6 +29,8 @@
 ***
 
 #### ■ 수동 운전
+
+<div align="left"><figure><img src="../.gitbook/assets/2025-04-03 13 36 27.png" alt=""><figcaption></figcaption></figure></div>
 
 용접 프로그램의 실행이 불가능하게 되어, 실수에 의한 기동을 막을 수 있습니다.&#x20;
 
