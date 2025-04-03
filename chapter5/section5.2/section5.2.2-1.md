@@ -1,24 +1,21 @@
----
-hidden: true
----
-
 # 5.2.7 연속 가접 용접
 
-연속 가접 용접은 일직선 경로 상의 여러개의 가접이 필요한 경우에 사용합니다.
+연속 가접 용접은 일직선 경로 상의  1회 이상의 가접이 필요한 경우에 사용합니다.
 
-전류(A), 전압(V), 시간(sec), 용접의 개시와 종료 시점의 전류, 전압, IDLE 시간을 설정할 수 있습니다. 교시 화면에서는 용접 시작점과 끝점의 2개의 포인트가 생성됩니다.&#x20;
+전류(A), 전압(V), 가접시간(sec), 연속가접용접(EA)을 설정할 수 있습니다. 교시 화면에서는 가접용접 시작점과 끝점의 2개의 포인트가 생성됩니다.&#x20;
 
-연속으로 용접을 하는 경우는 1개씩 포인트가 추가됩니다.
+가접 시작과 끝 점 사이에  입력한 수치 만큼의 가접 동작이 자동으로 추가됩니다.\
+ex) 연속가접용접(EA)을5EA로 설정 했을 때 시작점 과 끝점 사이에 3회 만큼 추가됩니다.
 
-<figure><img src="../../.gitbook/assets/2025-04-02 15 51 50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 46 (2).png" alt=""><figcaption></figcaption></figure>
 
-#### ■ 직선용접예시
+#### ■ 연속 가접 용접예시
 
 {% stepper %}
 {% step %}
-직선 용접을 진행 할 위치를 확인합니다.
+연속 가접 용접을 진행 할 위치를 확인합니다.
 
-<figure><img src="../img/section5.2.2_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 46 (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -30,43 +27,43 @@ hidden: true
 {% step %}
 직선용접 > 용접조건 선택 >추가 > 설정 완료를 실시합니다.
 
-<figure><img src="../../.gitbook/assets/2025-04-02 15 51 50 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 46.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작업의 시작 위치를 교시합니다.
 
-<figure><img src="../img/section5.2.2_5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 46 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작업 진입 전 위치를 교시합니다.
 
-<figure><img src="../img/section5.2.2_6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 47.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-직선 용접의 시작 위치를 교시합니다.
+연속 가접 용접의 시작 위치를 교시합니다.
 
-<figure><img src="../img/section5.2.2_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 47 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-직선 용접의 종료 위치를 교시합니다.
+연속 가접 용접의 종료 위치를 교시합니다.
 
-<figure><img src="../img/section5.2.2_8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 47 (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작업 완료 후 회피 위치를 교시합니다.
 
-<figure><img src="../img/section5.2.2_9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 47 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 작업 종료 위치의 교시합니다.
 
-<figure><img src="../img/section5.2.2_10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-03 11 07 47 (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
