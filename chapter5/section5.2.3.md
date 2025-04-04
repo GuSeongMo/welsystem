@@ -12,7 +12,7 @@
 
 {% stepper %}
 {% step %}
-곡선 용접을진행할 위치를 확인합니다.
+원 용접(2연속곡선용접)을 진행할 위치를 확인합니다.
 
 <figure><img src="img/section5.2.3_2.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -86,6 +86,6 @@
 {% step %}
 실행 버튼을 눌러 용접을 실시합니다.(모드 확인!)
 
-<figure><img src="../.gitbook/assets/2025-04-02 14 21 00 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-04 10 42 17.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
