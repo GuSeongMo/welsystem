@@ -138,7 +138,7 @@
 {% step %}
 수정 버튼을 눌러 조건이 변경되었는지 확인합니다.
 
-<figure><img src="../.gitbook/assets/2025-04-03 14 37 18 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-04 17 33 40.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

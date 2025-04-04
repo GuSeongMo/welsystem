@@ -22,7 +22,7 @@
 {% step %}
 welsystem 을 실행시킵니다.
 
-<figure><img src="img/on_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-04 17 30 17.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
