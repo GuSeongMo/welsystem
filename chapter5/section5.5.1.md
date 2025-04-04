@@ -12,7 +12,7 @@
 {% step %}
 이름을 입력하고 키패드를 닫습니다.
 
-<figure><img src="../.gitbook/assets/2025-04-02 18 13 57 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-04 15 45 15 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -54,6 +54,6 @@
 {% step %}
 저장이 완료됩니다.「돌아가기」버튼으로 이전의 화면으로 돌아옵니다.
 
-<figure><img src="../.gitbook/assets/2025-04-02 18 13 58 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-04 15 45 15.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
