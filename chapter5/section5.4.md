@@ -2,7 +2,7 @@
 
 #### ■ 확인 운전
 
-<div align="left"><figure><img src="../.gitbook/assets/2025-04-03 13 36 27 (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/2025-04-04 16 28 02.png" alt=""><figcaption></figcaption></figure></div>
 
 작성된 용접 프로그램을 실제 용접 없이 실행하는 모드입니다.&#x20;
 
