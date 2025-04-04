@@ -3,19 +3,19 @@
 <div align="right" data-full-width="false"><figure><img src="../.gitbook/assets/그림2.png" alt=""><figcaption></figcaption></figure></div>
 
 > 1. 로고\
->    회사 로고 입니다.\
->    터치 시, PC 의 바탕화면으로의 전환이 가능합니다.
+>    회사의 로고 입니다.\
+>    로고를 터치하시면 PC 의 바탕화면으로 전환됩니다.
 > 2. 정보창\
->    시스템의 정보를 간단하게표시합니다.
+>    시스템의 정보를 간단하게 표시합니다.
 > 3. 운전모드\
->    기기의현재모드를표시합니다.\
+>    기기의 현재 모드를 표시합니다.\
 >    수동운전, 확인운전, 용접운전의 3가지 모드가 있으며, 아이콘을 터치하면 모드가 변경됩니다.
 > 4.  좌표계 선택\
 >     팬던트를 이용한 로봇 조작 시 기준이 되는 좌표계를 선택합니다.
 >
->     <table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../icon/joint.ax.png" alt=""></td><td>Joint 좌표계</td><td>로봇의 각 관절을 하나씩 움직일 수 있습니다.</td></tr><tr><td><img src="../icon/global.ax.png" alt="></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="></td><td>Global 좌표계</td><td>로봇 중심을 기준으로 수직, 수평으로 직선 방향으로 움직입니다.</td></tr><tr><td><img src="../icon/tool.ax.png" alt=""></td><td>Tool 좌표계</td><td>로봇 툴(토치) TCP를 기준으로 수직, 수평으로 직선 방향으로 움직입니다.</td></tr></tbody></table>
+>     <table><thead><tr><th width="66"></th><th width="197"></th><th></th></tr></thead><tbody><tr><td><img src="../icon/joint.ax.png" alt=""></td><td>Joint 좌표계</td><td>로봇의 각 관절을 하나씩 독립적으로  움직일 수 있습니다.</td></tr><tr><td><img src="../icon/global.ax.png" alt="></td><td>関節座標系</td><td>ロボットの各関節を動かす座標系です。</td></tr><tr><td><img src="></td><td>Global 좌표계</td><td>로봇 중심을 기준으로 수직 및 수평으로 직선 방향으로 이동합니다.</td></tr><tr><td><img src="../icon/tool.ax.png" alt=""></td><td>Tool 좌표계</td><td>로봇 툴(토치) TCP를 기준으로 수직 및 수평으로 직선 방향으로 이동합니다.</td></tr></tbody></table>
 >
->     팬던트의 "F1" 버튼으로도 좌표계를 변경할 수 있습니다.
+>     팬던트의 "F1" 버튼을 사용하여 좌표계를 변경할 수 있습니다.
 > 5.  수동속도\
 >     로봇의 수동 조작 속도를 표시합니다.
 >

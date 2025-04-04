@@ -1,12 +1,10 @@
 # 3.2 종료
 
-
-
 {% stepper %}
 {% step %}
 welsystem 을 종료합니다.
 
-<figure><img src="img/off_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-04 09 07 37.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
