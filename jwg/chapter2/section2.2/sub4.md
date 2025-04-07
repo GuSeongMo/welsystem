@@ -2,32 +2,26 @@
 
 {% stepper %}
 {% step %}
-준비된 가스통을 프레임 후면에 올려놓습니다.
+용접에 필요한 가스를 준비합니다 .
 
-<figure><img src="../../../jws/chapter2/section2.2/img/section2.2.4_1 (1).jpg" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-고정바를 이용해 가스통을 고정시킵니다.
-
-<figure><img src="../../../jws/chapter2/section2.2/img/section2.2.4_2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2025-04-07 16 21 49 (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 가스 조절기를 가스통에 연결합니다.
 
-<figure><img src="../../../jws/chapter2/section2.2/img/section2.2.4_3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2025-04-07 16 21 49 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 가스 호스를 조절기와 연결시킵니다.
 
-<figure><img src="../../../jws/chapter2/section2.2/img/section2.2.4_4 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2025-04-07 16 21 49 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-가스 조절기의 전원을 콘센트에 연결합니다.
+가스밸브를 열고 가스가 새어 나오는 부분이 있는지 확인합니다.
 
-<figure><img src="../../../jws/chapter2/section2.2/img/section2.2.4_5 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2025-04-07 16 21 49.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
