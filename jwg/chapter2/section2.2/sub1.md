@@ -16,7 +16,7 @@
 {% step %}
 측정장비를 이용하여 평형을 맟춥니다.
 
-<figure><img src="../../../jws/chapter2/section2.2/img/section2.2.1_3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2025-04-07 18 39 41.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
