@@ -2,11 +2,11 @@
 
 #### ■ JWS 기본 구성
 
-<figure><img src="../../jws/chapter3/img/section3.2_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-07 17 49 50.png" alt=""><figcaption></figcaption></figure>
 
-> 1. 로봇
-> 2. 로봇 컨트롤러
-> 3. 프레임 구성
-> 4. 용접기
-> 5. 용접기 피더
-> 6. 툴
+> 1. 툴
+> 2. 드래스팩
+> 3. 로봇
+> 4. 피더기
+> 5. 용접기
+> 6. 주행축
