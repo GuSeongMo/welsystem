@@ -41,6 +41,6 @@
 * [7. 소프트웨어 업데이트](chapter7/chapter7.md)
 * [Instruction Manual](https://welsystem.gitbook.io/inst_manual/)
 * [Maintenance Manual](http://www.jct.co.kr/)
-* [Appendix](http://www.jct.co.kr/)
+* [Appendix](https://welsystem.gitbook.io/app)
 * [www.jct.co.kr](http://www.jct.co.kr/)
 * [Page 1](page-1.md)
