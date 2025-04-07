@@ -1,3 +1,6 @@
 # 3.1 제품 외관
 
-<figure><img src="../../jws/chapter3/img/section3.1_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-07 17 25 07 (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/2025-04-07 17 25 08.png" alt=""><figcaption></figcaption></figure>
+
