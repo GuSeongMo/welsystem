@@ -99,7 +99,7 @@
 > *   Seam Tracking(옵션)
 >
 >     Seam Tracking이 적용된 경우 해당 기능을 통해 활성화할 수 있습니다.
-> *   Nozzle Clean
+> *   Nozzle Clean(옵션)
 >
 >     노즐클리너가 적용된 경우 해당 기능을 통해 활성화할 수 있습니다.\
 >     SET UP 버튼을  눌러 노즐클리너의 동작 위치를 설정할 수 있습니다.
