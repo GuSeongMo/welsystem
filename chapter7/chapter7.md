@@ -37,7 +37,7 @@
 {% step %}
 구성요소 선택의 "업데이트  설치"를 선택 후 "다음"을 누릅니다.
 
-<figure><img src="../.gitbook/assets/2025-04-09 14 53 41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-09 17 18 49.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
