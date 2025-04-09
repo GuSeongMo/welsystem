@@ -9,30 +9,65 @@
 {% endstep %}
 
 {% step %}
-새 버전의 소프트웨어를 데스크톱 또는임의의위치에 복사합니다.
+새 버전의 소프트웨어를 데스크톱 또는 임의의 위치에 복사한 후   실행합니다.
 
-<figure><img src="img/section6_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 40.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-원래 있던 폴더로부터 "data", "jct\_setting" 폴더를 복사 후, 신규 버전의 폴더에 붙여넣기(덮어쓰기)합니다.
+설치 언어 선택창에서 한국어를 선택 후 "확인"을 누릅니다.
 
-<figure><img src="img/section6_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 40 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-바탕화면 바로가기 위에서 우클릭하여 로 들어가 신규 버전의 경로로 프로그램 파일의 경로를 변경합니다.
+&#x20;우측하단 키패드로 비밀번호 "jct"를 입력하고 "확인"을 누릅니다.
 
-<figure><img src="img/section6_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 40 (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-작업 표시줄의 바로가기를 삭제하고 수정한 바로가기로 교체합니다.
+"다음"을 누릅니다.
 
-<figure><img src="img/section6_4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 40 (4).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-변경 작업이 끝나면 기존 폴더를 삭제합니다.
+구성요소 선택의 "업데이트  설치"를 선택 후 "다음"을 누릅니다.
+
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 41.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+시작 메뉴 폴더 선택에서 "다음"을 누릅니다.
+
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 41 (2).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+추가 작업 선택에서"다음"을 누릅니다.
+
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 41 (3).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+"마침"을 누르면 설치가 완료되고 "JCT welsystem 실행"이 체크 되어 있을 시 자동으로 실행됩니다.
+
+<figure><img src="../.gitbook/assets/2025-04-09 14 53 41 (4).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+## ■ welsystem 250402 이전 버전을 업데이트 해야 하는 경우
+
+1. 위의 구성요소 선택의 "처음설치"를 선택 합니
+2. 기존 welsystem 폴더 안의 "data" 와  "jct\_settings" 폴더를 복사해&#x20;
+
+
 {% endstep %}
 {% endstepper %}
